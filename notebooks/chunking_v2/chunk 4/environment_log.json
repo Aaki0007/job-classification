@@ -1,0 +1,21 @@
+{
+  "timestamp": "2026-03-16T12:52:53.367139+00:00",
+  "python": "3.12.12",
+  "platform": "Linux-6.6.113+-x86_64-with-glibc2.35",
+  "packages": {
+    "pip": "24.1.2",
+    "pandas": "2.2.2",
+    "numpy": "2.0.2",
+    "sentence_transformers": "5.2.3",
+    "tqdm": "4.67.3",
+    "huggingface_hub": "1.6.0",
+    "hf_transfer": "0.1.9",
+    "llama_cpp": "0.3.16",
+    "llama-cpp-python": "NOT INSTALLED",
+    "psutil": "5.9.5",
+    "hashlib": "installed"
+  },
+  "gpu": "Tesla T4, 15360 MiB, 580.82.07",
+  "cuda": "Build cuda_12.8.r12.8/compiler.35583870_0",
+  "ram_gb": 12.7
+}
