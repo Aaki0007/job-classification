@@ -1,5 +1,5 @@
 {
-  "timestamp_utc": "2026-03-27T12:57:25.959783+00:00",
+  "timestamp_utc": "2026-03-29T19:06:51.284999+00:00",
   "python_version": "3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]",
   "platform": "Linux-6.6.113+-x86_64-with-glibc2.35",
   "working_directory": "/content",
@@ -8,6 +8,17 @@
     "numpy": "2.0.2",
     "matplotlib": "3.10.0",
     "torch": "2.10.0+cu128",
-    "sentence_transformers": "5.3.0"
+    "sentence_transformers": "5.3.0",
+    "os": "installed",
+    "re": "2.2.1",
+    "sys": "installed",
+    "json": "2.0.9",
+    "hashlib": "installed",
+    "platform": "1.0.8",
+    "datetime": "installed",
+    "warnings": "installed",
+    "pickle": "installed",
+    "pathlib": "installed",
+    "collections": "installed"
   }
 }
