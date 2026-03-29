@@ -1,0 +1,627 @@
+[
+  {
+    "community_id": 100,
+    "community_size": 89,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Software Engineers",
+    "defining_skills": [
+      "software solutions",
+      "program designs",
+      "code modules"
+    ],
+    "defining_responsibility_signals": [
+      "translate business requirements",
+      "partner with senior colleagues"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 1.0,
+    "overall_agreement": 1.0,
+    "calls_used": 3,
+    "top_title_keywords": "engineer, software, architect, solution, developer, solutions, lead, security, technical, senior, development, net",
+    "raw_call_outputs": "[{\"community_id\": 100, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Software Engineers\", \"defining_skills\": [\"software solutions\", \"program designs\", \"code modules\"], \"defining_responsibility_signals\": [\"translate business requirements\", \"partner with senior colleagues\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 100, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Software Engineers\\\", \\\"defining_skills\\\": [\\\"software solutions\\\", \\\"program designs\\\", \\\"code modules\\\"], \\\"defining_responsibility_signals\\\": [\\\"translate business requirements\\\", \\\"partner with senior colleagues\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 100, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Software Engineers\", \"defining_skills\": [\"software solutions\", \"program designs\", \"code modules\"], \"defining_responsibility_signals\": [\"translate business requirements\", \"partner with senior colleagues\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 100, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Software Engineers\\\", \\\"defining_skills\\\": [\\\"software solutions\\\", \\\"program designs\\\", \\\"code modules\\\"], \\\"defining_responsibility_signals\\\": [\\\"translate business requirements\\\", \\\"partner with senior colleagues\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 100, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Software Engineers\", \"defining_skills\": [\"software solutions\", \"program designs\", \"code modules\"], \"defining_responsibility_signals\": [\"translate business requirements\", \"partner with senior colleagues\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 100, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Software Engineers\\\", \\\"defining_skills\\\": [\\\"software solutions\\\", \\\"program designs\\\", \\\"code modules\\\"], \\\"defining_responsibility_signals\\\": [\\\"translate business requirements\\\", \\\"partner with senior colleagues\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 5
+  },
+  {
+    "community_id": 101,
+    "community_size": 86,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Account Management",
+    "defining_skills": [
+      "account management",
+      "sales",
+      "commercial strategy"
+    ],
+    "defining_responsibility_signals": [
+      "implement",
+      "maintain"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.889,
+    "calls_used": 3,
+    "top_title_keywords": "account, manager, executive, senior, commercial, director, national, management, sales, public, accounts, specialist",
+    "raw_call_outputs": "[{\"community_id\": 101, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Account Management\", \"defining_skills\": [\"account management\", \"sales\", \"commercial strategy\"], \"defining_responsibility_signals\": [\"implement\", \"maintain\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 101, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Account Management\\\", \\\"defining_skills\\\": [\\\"account management\\\", \\\"sales\\\", \\\"commercial strategy\\\"], \\\"defining_responsibility_signals\\\": [\\\"implement\\\", \\\"maintain\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 101, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Commercial Account Management\", \"defining_skills\": [\"account management\", \"sales\", \"commercial strategy\"], \"defining_responsibility_signals\": [\"manage accounts\", \"drive sales growth\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 101, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Commercial Account Management\\\", \\\"defining_skills\\\": [\\\"account management\\\", \\\"sales\\\", \\\"commercial strategy\\\"], \\\"defining_responsibility_signals\\\": [\\\"manage accounts\\\", \\\"drive sales growth\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 101, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Account Management\", \"defining_skills\": [\"account management\", \"sales\", \"client relations\"], \"defining_responsibility_signals\": [\"act as a go-between\", \"operate as the front door\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 101, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Account Management\\\", \\\"defining_skills\\\": [\\\"account management\\\", \\\"sales\\\", \\\"client relations\\\"], \\\"defining_responsibility_signals\\\": [\\\"act as a go-between\\\", \\\"operate as the front door\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 5
+  },
+  {
+    "community_id": 102,
+    "community_size": 86,
+    "dominant_experience_level": "junior",
+    "entry_accessibility": "clear_entry_point",
+    "community_label": "Field Service Technician",
+    "defining_skills": [
+      "field service",
+      "problem diagnosis",
+      "repair services"
+    ],
+    "defining_responsibility_signals": [
+      "on-site service support",
+      "installation support"
+    ],
+    "confidence": "high",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.889,
+    "calls_used": 3,
+    "top_title_keywords": "technician, service, field, support, specialist, technical, desk, engineer, help, tech, installation, customer",
+    "raw_call_outputs": "[{\"community_id\": 102, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Field Service Technician\", \"defining_skills\": [\"field service\", \"problem diagnosis\", \"repair services\"], \"defining_responsibility_signals\": [\"on-site service support\", \"installation support\"], \"confidence\": \"high\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 102, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Field Service Technician\\\", \\\"defining_skills\\\": [\\\"field service\\\", \\\"problem diagnosis\\\", \\\"repair services\\\"], \\\"defining_responsibility_signals\\\": [\\\"on-site service support\\\", \\\"installation support\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 102, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Field Service Technician\", \"defining_skills\": [\"technician\", \"field\", \"support\"], \"defining_responsibility_signals\": [\"installation\", \"customer\"], \"confidence\": \"high\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 102, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Field Service Technician\\\", \\\"defining_skills\\\": [\\\"technician\\\", \\\"field\\\", \\\"support\\\"], \\\"defining_responsibility_signals\\\": [\\\"installation\\\", \\\"customer\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 102, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Telecom Technician\", \"defining_skills\": [\"installation\", \"repair\", \"telecommunication systems\"], \"defining_responsibility_signals\": [\"install and maintain\", \"utilize experience\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 102, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Telecom Technician\\\", \\\"defining_skills\\\": [\\\"installation\\\", \\\"repair\\\", \\\"telecommunication systems\\\"], \\\"defining_responsibility_signals\\\": [\\\"install and maintain\\\", \\\"utilize experience\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 5
+  },
+  {
+    "community_id": 103,
+    "community_size": 84,
+    "dominant_experience_level": "junior",
+    "entry_accessibility": "clear_entry_point",
+    "community_label": "Food Lion Sales Associate",
+    "defining_skills": [
+      "sales",
+      "customer service",
+      "cash handling"
+    ],
+    "defining_responsibility_signals": [
+      "serve customers",
+      "operate cash register"
+    ],
+    "confidence": "high",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 1.0,
+    "overall_agreement": 1.0,
+    "calls_used": 3,
+    "top_title_keywords": "food, deli, bakery, sales, lion, clerk, cashier, perishable, frozen, opportunities, dairy, front",
+    "raw_call_outputs": "[{\"community_id\": 103, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Food Lion Sales Associate\", \"defining_skills\": [\"sales\", \"customer service\", \"cash handling\"], \"defining_responsibility_signals\": [\"serve customers\", \"operate cash register\"], \"confidence\": \"high\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 103, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Food Lion Sales Associate\\\", \\\"defining_skills\\\": [\\\"sales\\\", \\\"customer service\\\", \\\"cash handling\\\"], \\\"defining_responsibility_signals\\\": [\\\"serve customers\\\", \\\"operate cash register\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 103, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Food Lion Sales Associate\", \"defining_skills\": [\"sales\", \"customer service\", \"cash handling\"], \"defining_responsibility_signals\": [\"serve customers\", \"operate cash register\"], \"confidence\": \"high\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 103, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Food Lion Sales Associate\\\", \\\"defining_skills\\\": [\\\"sales\\\", \\\"customer service\\\", \\\"cash handling\\\"], \\\"defining_responsibility_signals\\\": [\\\"serve customers\\\", \\\"operate cash register\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 103, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Food Lion Sales Associate\", \"defining_skills\": [\"sales\", \"customer service\", \"cash handling\"], \"defining_responsibility_signals\": [\"serve customers\", \"operate cash register\"], \"confidence\": \"high\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 103, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Food Lion Sales Associate\\\", \\\"defining_skills\\\": [\\\"sales\\\", \\\"customer service\\\", \\\"cash handling\\\"], \\\"defining_responsibility_signals\\\": [\\\"serve customers\\\", \\\"operate cash register\\\"], \\\"confidence\\\": \\\"high\\\"}\"}]",
+    "batch_id": 5
+  },
+  {
+    "community_id": 104,
+    "community_size": 84,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Mechanical Design Engineers",
+    "defining_skills": [
+      "mechanical design",
+      "product development",
+      "technical expertise"
+    ],
+    "defining_responsibility_signals": [
+      "drive innovation",
+      "lead design projects"
+    ],
+    "confidence": "medium",
+    "level_agreement": 0.667,
+    "access_agreement": 0.667,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.667,
+    "calls_used": 3,
+    "top_title_keywords": "engineer, mechanical, design, designer, senior, systems, research, engineering, development, specialist, drafter, electrical",
+    "raw_call_outputs": "[{\"community_id\": 104, \"dominant_experience_level\": \"senior\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Senior Mechanical Engineers\", \"defining_skills\": [\"mechanical design\", \"product development\", \"technical expertise\"], \"defining_responsibility_signals\": [\"lead design projects\", \"drive innovation\"], \"confidence\": \"high\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 104, \\\"dominant_experience_level\\\": \\\"senior\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Senior Mechanical Engineers\\\", \\\"defining_skills\\\": [\\\"mechanical design\\\", \\\"product development\\\", \\\"technical expertise\\\"], \\\"defining_responsibility_signals\\\": [\\\"lead design projects\\\", \\\"drive innovation\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 104, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Mechanical Design Engineers\", \"defining_skills\": [\"mechanical design\", \"cross-functional teams\", \"product development\"], \"defining_responsibility_signals\": [\"drive innovation\", \"work with cross-functional teams\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 104, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Mechanical Design Engineers\\\", \\\"defining_skills\\\": [\\\"mechanical design\\\", \\\"cross-functional teams\\\", \\\"product development\\\"], \\\"defining_responsibility_signals\\\": [\\\"drive innovation\\\", \\\"work with cross-functional teams\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 104, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Mechanical Design Engineers\", \"defining_skills\": [\"3D modeling\", \"CAD\", \"hydraulic design\"], \"defining_responsibility_signals\": [\"oversee design teams\", \"participate in design projects\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 104, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Mechanical Design Engineers\\\", \\\"defining_skills\\\": [\\\"3D modeling\\\", \\\"CAD\\\", \\\"hydraulic design\\\"], \\\"defining_responsibility_signals\\\": [\\\"oversee design teams\\\", \\\"participate in design projects\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 5
+  },
+  {
+    "community_id": 105,
+    "community_size": 82,
+    "dominant_experience_level": "junior",
+    "entry_accessibility": "clear_entry_point",
+    "community_label": "Housekeeping Aides",
+    "defining_skills": [
+      "cleaning services",
+      "maintaining environment",
+      "safety procedures"
+    ],
+    "defining_responsibility_signals": [
+      "provide sanitary environment",
+      "keep things neat and tidy"
+    ],
+    "confidence": "high",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 1.0,
+    "overall_agreement": 1.0,
+    "calls_used": 3,
+    "top_title_keywords": "aide, housekeeping, environmental, services, evs, housekeeper, attendant, days, tech, worker, assistant, hour",
+    "raw_call_outputs": "[{\"community_id\": 105, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Housekeeping Aides\", \"defining_skills\": [\"cleaning services\", \"maintaining environment\", \"safety procedures\"], \"defining_responsibility_signals\": [\"provide sanitary environment\", \"keep things neat and tidy\"], \"confidence\": \"high\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 105, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Housekeeping Aides\\\", \\\"defining_skills\\\": [\\\"cleaning services\\\", \\\"maintaining environment\\\", \\\"safety procedures\\\"], \\\"defining_responsibility_signals\\\": [\\\"provide sanitary environment\\\", \\\"keep things neat and tidy\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 105, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Housekeeping Aides\", \"defining_skills\": [\"cleaning services\", \"maintaining environment\", \"safety procedures\"], \"defining_responsibility_signals\": [\"provide sanitary environment\", \"keep things neat and tidy\"], \"confidence\": \"high\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 105, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Housekeeping Aides\\\", \\\"defining_skills\\\": [\\\"cleaning services\\\", \\\"maintaining environment\\\", \\\"safety procedures\\\"], \\\"defining_responsibility_signals\\\": [\\\"provide sanitary environment\\\", \\\"keep things neat and tidy\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 105, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Housekeeping Aides\", \"defining_skills\": [\"cleaning\", \"maintaining\", \"sanitary\"], \"defining_responsibility_signals\": [\"provide clean environment\", \"keep things neat\"], \"confidence\": \"high\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 105, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Housekeeping Aides\\\", \\\"defining_skills\\\": [\\\"cleaning\\\", \\\"maintaining\\\", \\\"sanitary\\\"], \\\"defining_responsibility_signals\\\": [\\\"provide clean environment\\\", \\\"keep things neat\\\"], \\\"confidence\\\": \\\"high\\\"}\"}]",
+    "batch_id": 5
+  },
+  {
+    "community_id": 106,
+    "community_size": 82,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "UX Design Community",
+    "defining_skills": [
+      "user experience design",
+      "wireframes",
+      "high-fidelity mocks"
+    ],
+    "defining_responsibility_signals": [
+      "lead projects",
+      "run full experience design process"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.889,
+    "calls_used": 3,
+    "top_title_keywords": "designer, experience, user, senior, product, design, researcher, manager, graphic, digital, director, junior",
+    "raw_call_outputs": "[{\"community_id\": 106, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"UX Design Community\", \"defining_skills\": [\"user experience design\", \"wireframes\", \"high-fidelity mocks\"], \"defining_responsibility_signals\": [\"lead projects\", \"run full experience design process\"], \"confidence\": \"high\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 106, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"UX Design Community\\\", \\\"defining_skills\\\": [\\\"user experience design\\\", \\\"wireframes\\\", \\\"high-fidelity mocks\\\"], \\\"defining_responsibility_signals\\\": [\\\"lead projects\\\", \\\"run full experience design process\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 106, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"User Experience Design\", \"defining_skills\": [\"user experience design\", \"product design\", \"graphic design\"], \"defining_responsibility_signals\": [\"define direction\", \"collaborate with team\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 106, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"User Experience Design\\\", \\\"defining_skills\\\": [\\\"user experience design\\\", \\\"product design\\\", \\\"graphic design\\\"], \\\"defining_responsibility_signals\\\": [\\\"define direction\\\", \\\"collaborate with team\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 106, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"UX Design Community\", \"defining_skills\": [\"user experience design\", \"digital design\", \"interface design\"], \"defining_responsibility_signals\": [\"implement designs\", \"interface creation\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 106, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"UX Design Community\\\", \\\"defining_skills\\\": [\\\"user experience design\\\", \\\"digital design\\\", \\\"interface design\\\"], \\\"defining_responsibility_signals\\\": [\\\"implement designs\\\", \\\"interface creation\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 5
+  },
+  {
+    "community_id": 107,
+    "community_size": 81,
+    "dominant_experience_level": "senior",
+    "entry_accessibility": "restricted_entry_point",
+    "community_label": "Senior Business Consultants",
+    "defining_skills": [
+      "consulting",
+      "strategy",
+      "transformation"
+    ],
+    "defining_responsibility_signals": [
+      "leading practices",
+      "complex issues"
+    ],
+    "confidence": "high",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.889,
+    "calls_used": 3,
+    "top_title_keywords": "senior, consultant, manager, director, business, lead, digital, operations, management, development, client, specialist",
+    "raw_call_outputs": "[{\"community_id\": 107, \"dominant_experience_level\": \"senior\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Senior Consultant Community\", \"defining_skills\": [\"strategy\", \"transformation\", \"consulting\"], \"defining_responsibility_signals\": [\"leading practices\", \"complex issues\"], \"confidence\": \"high\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 107, \\\"dominant_experience_level\\\": \\\"senior\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Senior Consultant Community\\\", \\\"defining_skills\\\": [\\\"strategy\\\", \\\"transformation\\\", \\\"consulting\\\"], \\\"defining_responsibility_signals\\\": [\\\"leading practices\\\", \\\"complex issues\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 107, \"dominant_experience_level\": \"senior\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Senior Business Consultants\", \"defining_skills\": [\"business execution\", \"strategic initiatives\", \"leadership terms\"], \"defining_responsibility_signals\": [\"lead\", \"implement\"], \"confidence\": \"high\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 107, \\\"dominant_experience_level\\\": \\\"senior\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Senior Business Consultants\\\", \\\"defining_skills\\\": [\\\"business execution\\\", \\\"strategic initiatives\\\", \\\"leadership terms\\\"], \\\"defining_responsibility_signals\\\": [\\\"lead\\\", \\\"implement\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 107, \"dominant_experience_level\": \"senior\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Senior Business Consultants\", \"defining_skills\": [\"leadership\", \"process management\", \"consulting\"], \"defining_responsibility_signals\": [\"build and lead processes\", \"manage services\"], \"confidence\": \"high\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 107, \\\"dominant_experience_level\\\": \\\"senior\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Senior Business Consultants\\\", \\\"defining_skills\\\": [\\\"leadership\\\", \\\"process management\\\", \\\"consulting\\\"], \\\"defining_responsibility_signals\\\": [\\\"build and lead processes\\\", \\\"manage services\\\"], \\\"confidence\\\": \\\"high\\\"}\"}]",
+    "batch_id": 5
+  },
+  {
+    "community_id": 108,
+    "community_size": 81,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "IT Systems Admin",
+    "defining_skills": [
+      "Windows",
+      "Linux",
+      "system administration"
+    ],
+    "defining_responsibility_signals": [
+      "engineer",
+      "build deploy and maintain"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.889,
+    "calls_used": 3,
+    "top_title_keywords": "specialist, systems, engineer, system, information, administrator, technology, support, technical, consultant, manager, senior",
+    "raw_call_outputs": "[{\"community_id\": 108, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"IT Systems Admin\", \"defining_skills\": [\"Windows\", \"Linux\", \"system administration\"], \"defining_responsibility_signals\": [\"engineer\", \"build deploy and maintain\"], \"confidence\": \"high\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 108, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"IT Systems Admin\\\", \\\"defining_skills\\\": [\\\"Windows\\\", \\\"Linux\\\", \\\"system administration\\\"], \\\"defining_responsibility_signals\\\": [\\\"engineer\\\", \\\"build deploy and maintain\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 108, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"IT Systems Specialist\", \"defining_skills\": [\"application software\", \"programming\", \"testing\"], \"defining_responsibility_signals\": [\"designing and developing\", \"maintaining\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 108, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"IT Systems Specialist\\\", \\\"defining_skills\\\": [\\\"application software\\\", \\\"programming\\\", \\\"testing\\\"], \\\"defining_responsibility_signals\\\": [\\\"designing and developing\\\", \\\"maintaining\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 108, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"IT Systems Admin\", \"defining_skills\": [\"systems administration\", \"network management\", \"security\"], \"defining_responsibility_signals\": [\"manage computer systems\", \"ensure efficient operation\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 108, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"IT Systems Admin\\\", \\\"defining_skills\\\": [\\\"systems administration\\\", \\\"network management\\\", \\\"security\\\"], \\\"defining_responsibility_signals\\\": [\\\"manage computer systems\\\", \\\"ensure efficient operation\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 5
+  },
+  {
+    "community_id": 109,
+    "community_size": 80,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Business Analysts",
+    "defining_skills": [
+      "data analysis",
+      "financial analysis",
+      "business requirements"
+    ],
+    "defining_responsibility_signals": [
+      "gathering and documenting requirements",
+      "entry level expertise"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.889,
+    "calls_used": 3,
+    "top_title_keywords": "analyst, financial, business, advisor, finance, manager, data, development, program, solutions, trainee, systems",
+    "raw_call_outputs": "[{\"community_id\": 109, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Business Analysts\", \"defining_skills\": [\"business requirements\", \"product owner\", \"data analysis\"], \"defining_responsibility_signals\": [\"gathering and documenting requirements\", \"entry level expertise\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 109, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Business Analysts\\\", \\\"defining_skills\\\": [\\\"business requirements\\\", \\\"product owner\\\", \\\"data analysis\\\"], \\\"defining_responsibility_signals\\\": [\\\"gathering and documenting requirements\\\", \\\"entry level expertise\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 109, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Financial Analysts\", \"defining_skills\": [\"financial analysis\", \"data analysis\", \"business advisor\"], \"defining_responsibility_signals\": [\"client financial services\", \"product analysis\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 109, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Financial Analysts\\\", \\\"defining_skills\\\": [\\\"financial analysis\\\", \\\"data analysis\\\", \\\"business advisor\\\"], \\\"defining_responsibility_signals\\\": [\\\"client financial services\\\", \\\"product analysis\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 109, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Business Analysts\", \"defining_skills\": [\"financial analysis\", \"data analysis\", \"program management\"], \"defining_responsibility_signals\": [\"support for client implementation programs\", \"middle office outsourcing\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 109, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Business Analysts\\\", \\\"defining_skills\\\": [\\\"financial analysis\\\", \\\"data analysis\\\", \\\"program management\\\"], \\\"defining_responsibility_signals\\\": [\\\"support for client implementation programs\\\", \\\"middle office outsourcing\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 5
+  },
+  {
+    "community_id": 110,
+    "community_size": 79,
+    "dominant_experience_level": "senior",
+    "entry_accessibility": "restricted_entry_point",
+    "community_label": "Sales & Marketing Leadership",
+    "defining_skills": [
+      "sales",
+      "director",
+      "marketing"
+    ],
+    "defining_responsibility_signals": [
+      "leadership",
+      "grow together"
+    ],
+    "confidence": "high",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.889,
+    "calls_used": 3,
+    "top_title_keywords": "director, sales, marketing, business, development, operations, manager, product, executive, vice, president, client",
+    "raw_call_outputs": "[{\"community_id\": 110, \"dominant_experience_level\": \"senior\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Sales & Marketing Leadership\", \"defining_skills\": [\"director\", \"sales\", \"marketing\"], \"defining_responsibility_signals\": [\"grow together\", \"leadership\"], \"confidence\": \"high\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 110, \\\"dominant_experience_level\\\": \\\"senior\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Sales & Marketing Leadership\\\", \\\"defining_skills\\\": [\\\"director\\\", \\\"sales\\\", \\\"marketing\\\"], \\\"defining_responsibility_signals\\\": [\\\"grow together\\\", \\\"leadership\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 110, \"dominant_experience_level\": \"senior\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Sales & Marketing Leadership\", \"defining_skills\": [\"strategy\", \"stakeholder management\", \"product marketing\"], \"defining_responsibility_signals\": [\"define direction\", \"make strategic decisions\"], \"confidence\": \"high\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 110, \\\"dominant_experience_level\\\": \\\"senior\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Sales & Marketing Leadership\\\", \\\"defining_skills\\\": [\\\"strategy\\\", \\\"stakeholder management\\\", \\\"product marketing\\\"], \\\"defining_responsibility_signals\\\": [\\\"define direction\\\", \\\"make strategic decisions\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 110, \"dominant_experience_level\": \"senior\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Sales & Management\", \"defining_skills\": [\"sales\", \"business development\", \"client management\"], \"defining_responsibility_signals\": [\"leadership\", \"strategic decision making\"], \"confidence\": \"high\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 110, \\\"dominant_experience_level\\\": \\\"senior\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Sales & Management\\\", \\\"defining_skills\\\": [\\\"sales\\\", \\\"business development\\\", \\\"client management\\\"], \\\"defining_responsibility_signals\\\": [\\\"leadership\\\", \\\"strategic decision making\\\"], \\\"confidence\\\": \\\"high\\\"}\"}]",
+    "batch_id": 5
+  },
+  {
+    "community_id": 111,
+    "community_size": 79,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "HR Business Partners",
+    "defining_skills": [
+      "bilingual",
+      "benefits",
+      "generalist"
+    ],
+    "defining_responsibility_signals": [
+      "define direction",
+      "collaborate with team"
+    ],
+    "confidence": "high",
+    "level_agreement": 0.667,
+    "access_agreement": 0.667,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.667,
+    "calls_used": 3,
+    "top_title_keywords": "human, resources, manager, director, generalist, business, partner, senior, regional, bilingual, officer, benefits",
+    "raw_call_outputs": "[{\"community_id\": 111, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"HR Business Partners\", \"defining_skills\": [\"bilingual\", \"benefits\", \"generalist\"], \"defining_responsibility_signals\": [\"define direction\", \"collaborate with team\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 111, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"HR Business Partners\\\", \\\"defining_skills\\\": [\\\"bilingual\\\", \\\"benefits\\\", \\\"generalist\\\"], \\\"defining_responsibility_signals\\\": [\\\"define direction\\\", \\\"collaborate with team\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 111, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"HR Business Partners\", \"defining_skills\": [\"HR activities\", \"business strategies\", \"compliance\"], \"defining_responsibility_signals\": [\"execute HR activities\", \"align with business\"], \"confidence\": \"high\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 111, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"HR Business Partners\\\", \\\"defining_skills\\\": [\\\"HR activities\\\", \\\"business strategies\\\", \\\"compliance\\\"], \\\"defining_responsibility_signals\\\": [\\\"execute HR activities\\\", \\\"align with business\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 111, \"dominant_experience_level\": \"senior\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Senior HR Leadership\", \"defining_skills\": [\"succession planning\", \"talent management\", \"change management\"], \"defining_responsibility_signals\": [\"develop and execute HR strategy\", \"oversee organizational performance\"], \"confidence\": \"high\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 111, \\\"dominant_experience_level\\\": \\\"senior\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Senior HR Leadership\\\", \\\"defining_skills\\\": [\\\"succession planning\\\", \\\"talent management\\\", \\\"change management\\\"], \\\"defining_responsibility_signals\\\": [\\\"develop and execute HR strategy\\\", \\\"oversee organizational performance\\\"], \\\"confidence\\\": \\\"high\\\"}\"}]",
+    "batch_id": 5
+  },
+  {
+    "community_id": 112,
+    "community_size": 79,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Product Management",
+    "defining_skills": [
+      "product management",
+      "product lifecycle management",
+      "product portfolio"
+    ],
+    "defining_responsibility_signals": [
+      "define and manage product lifecycle",
+      "lead product team"
+    ],
+    "confidence": "high",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 1.0,
+    "overall_agreement": 1.0,
+    "calls_used": 3,
+    "top_title_keywords": "product, manager, senior, owner, principal, management, technical, operations, vice, president, line, enterprise",
+    "raw_call_outputs": "[{\"community_id\": 112, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Product Management\", \"defining_skills\": [\"product lifecycle management\", \"product portfolio\", \"leadership\"], \"defining_responsibility_signals\": [\"define and manage product lifecycle\", \"lead product team\"], \"confidence\": \"high\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 112, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Product Management\\\", \\\"defining_skills\\\": [\\\"product lifecycle management\\\", \\\"product portfolio\\\", \\\"leadership\\\"], \\\"defining_responsibility_signals\\\": [\\\"define and manage product lifecycle\\\", \\\"lead product team\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 112, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Product Management\", \"defining_skills\": [\"product management\", \"cutting-edge products\", \"market-leading data\"], \"defining_responsibility_signals\": [\"develop product management career\", \"working on our cutting-edge products\"], \"confidence\": \"high\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 112, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Product Management\\\", \\\"defining_skills\\\": [\\\"product management\\\", \\\"cutting-edge products\\\", \\\"market-leading data\\\"], \\\"defining_responsibility_signals\\\": [\\\"develop product management career\\\", \\\"working on our cutting-edge products\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 112, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Product Management\", \"defining_skills\": [\"product management\", \"technical\", \"operations\"], \"defining_responsibility_signals\": [\"define direction\", \"make strategic decisions\"], \"confidence\": \"high\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 112, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Product Management\\\", \\\"defining_skills\\\": [\\\"product management\\\", \\\"technical\\\", \\\"operations\\\"], \\\"defining_responsibility_signals\\\": [\\\"define direction\\\", \\\"make strategic decisions\\\"], \\\"confidence\\\": \\\"high\\\"}\"}]",
+    "batch_id": 5
+  },
+  {
+    "community_id": 113,
+    "community_size": 78,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Business Development",
+    "defining_skills": [
+      "sales",
+      "consulting",
+      "marketing"
+    ],
+    "defining_responsibility_signals": [
+      "implement",
+      "contribute"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.889,
+    "calls_used": 3,
+    "top_title_keywords": "sales, development, representative, business, entry, specialist, marketing, consultant, executive, home, 1258349, mas",
+    "raw_call_outputs": "[{\"community_id\": 113, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Sales & Marketing\", \"defining_skills\": [\"sales\", \"marketing\", \"consulting\"], \"defining_responsibility_signals\": [\"implement\", \"contribute\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 113, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Sales & Marketing\\\", \\\"defining_skills\\\": [\\\"sales\\\", \\\"marketing\\\", \\\"consulting\\\"], \\\"defining_responsibility_signals\\\": [\\\"implement\\\", \\\"contribute\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 113, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Business Development\", \"defining_skills\": [\"sales\", \"business development\", \"consulting\"], \"defining_responsibility_signals\": [\"represent\", \"develop\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 113, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Business Development\\\", \\\"defining_skills\\\": [\\\"sales\\\", \\\"business development\\\", \\\"consulting\\\"], \\\"defining_responsibility_signals\\\": [\\\"represent\\\", \\\"develop\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 113, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Business Development\", \"defining_skills\": [\"sales\", \"marketing\", \"consulting\"], \"defining_responsibility_signals\": [\"implement\", \"contribute\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 113, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Business Development\\\", \\\"defining_skills\\\": [\\\"sales\\\", \\\"marketing\\\", \\\"consulting\\\"], \\\"defining_responsibility_signals\\\": [\\\"implement\\\", \\\"contribute\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 5
+  },
+  {
+    "community_id": 114,
+    "community_size": 78,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Business Systems Analysts",
+    "defining_skills": [
+      "data analysis",
+      "requirements gathering",
+      "communication"
+    ],
+    "defining_responsibility_signals": [
+      "leading ongoing reviews",
+      "stakeholder management"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.889,
+    "calls_used": 3,
+    "top_title_keywords": "analyst, business, data, systems, financial, specialist, operations, sap, senior, consultant, manager, technical",
+    "raw_call_outputs": "[{\"community_id\": 114, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Business Analysts\", \"defining_skills\": [\"requirements gathering\", \"communication\", \"data analysis\"], \"defining_responsibility_signals\": [\"stakeholder management\", \"quality assurance\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 114, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Business Analysts\\\", \\\"defining_skills\\\": [\\\"requirements gathering\\\", \\\"communication\\\", \\\"data analysis\\\"], \\\"defining_responsibility_signals\\\": [\\\"stakeholder management\\\", \\\"quality assurance\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 114, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Business Systems Analysts\", \"defining_skills\": [\"SAP\", \"data analysis\", \"business process improvement\"], \"defining_responsibility_signals\": [\"develop and implement solutions\", \"leading ongoing reviews\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 114, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Business Systems Analysts\\\", \\\"defining_skills\\\": [\\\"SAP\\\", \\\"data analysis\\\", \\\"business process improvement\\\"], \\\"defining_responsibility_signals\\\": [\\\"develop and implement solutions\\\", \\\"leading ongoing reviews\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 114, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Business Systems Analysts\", \"defining_skills\": [\"business process evaluation\", \"solution development\", \"optimization strategies\"], \"defining_responsibility_signals\": [\"leading ongoing reviews\", \"implementing solutions\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 114, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Business Systems Analysts\\\", \\\"defining_skills\\\": [\\\"business process evaluation\\\", \\\"solution development\\\", \\\"optimization strategies\\\"], \\\"defining_responsibility_signals\\\": [\\\"leading ongoing reviews\\\", \\\"implementing solutions\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 5
+  },
+  {
+    "community_id": 115,
+    "community_size": 78,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Software Engineering",
+    "defining_skills": [
+      "back end development",
+      "Java",
+      "Spring Framework"
+    ],
+    "defining_responsibility_signals": [
+      "build and pioneer in technology space",
+      "solve complex business problems"
+    ],
+    "confidence": "high",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 1.0,
+    "overall_agreement": 1.0,
+    "calls_used": 3,
+    "top_title_keywords": "engineer, senior, software, developer, net, stack, architect, manager, devops, end, engineering, back",
+    "raw_call_outputs": "[{\"community_id\": 115, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Software Engineering\", \"defining_skills\": [\"back end development\", \"Java\", \"Spring Framework\"], \"defining_responsibility_signals\": [\"build and pioneer in technology space\", \"solve complex business problems\"], \"confidence\": \"high\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 115, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Software Engineering\\\", \\\"defining_skills\\\": [\\\"back end development\\\", \\\"Java\\\", \\\"Spring Framework\\\"], \\\"defining_responsibility_signals\\\": [\\\"build and pioneer in technology space\\\", \\\"solve complex business problems\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 115, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Software Engineering\", \"defining_skills\": [\"C#\", \"full stack\", \"software development\"], \"defining_responsibility_signals\": [\"experienced full stack software engineer\", \"join our mobile team\"], \"confidence\": \"high\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 115, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Software Engineering\\\", \\\"defining_skills\\\": [\\\"C#\\\", \\\"full stack\\\", \\\"software development\\\"], \\\"defining_responsibility_signals\\\": [\\\"experienced full stack software engineer\\\", \\\"join our mobile team\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 115, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Software Engineering\", \"defining_skills\": [\"software engineering\", \"developer\", \"devops\"], \"defining_responsibility_signals\": [\"architect\", \"lead\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 115, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Software Engineering\\\", \\\"defining_skills\\\": [\\\"software engineering\\\", \\\"developer\\\", \\\"devops\\\"], \\\"defining_responsibility_signals\\\": [\\\"architect\\\", \\\"lead\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 5
+  },
+  {
+    "community_id": 116,
+    "community_size": 77,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Plant Controllers",
+    "defining_skills": [
+      "financial operations",
+      "manufacturing",
+      "facility management"
+    ],
+    "defining_responsibility_signals": [
+      "manage financial operations",
+      "maintain facility's financial operations"
+    ],
+    "confidence": "high",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.333,
+    "overall_agreement": 0.778,
+    "calls_used": 3,
+    "top_title_keywords": "controller, assistant, administrative, plant, financial, administrator, coordinator, payroll, project, accounts, payable, regional",
+    "raw_call_outputs": "[{\"community_id\": 116, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Plant Controllers\", \"defining_skills\": [\"financial operations\", \"manufacturing\", \"facility management\"], \"defining_responsibility_signals\": [\"manage financial operations\", \"maintain facility's financial operations\"], \"confidence\": \"high\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 116, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Plant Controllers\\\", \\\"defining_skills\\\": [\\\"financial operations\\\", \\\"manufacturing\\\", \\\"facility management\\\"], \\\"defining_responsibility_signals\\\": [\\\"manage financial operations\\\", \\\"maintain facility's financial operations\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 116, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Financial Controllers\", \"defining_skills\": [\"financial operations\", \"oversee\", \"contribute\"], \"defining_responsibility_signals\": [\"oversee financial operations\", \"contribute to legacy\"], \"confidence\": \"high\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 116, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Financial Controllers\\\", \\\"defining_skills\\\": [\\\"financial operations\\\", \\\"oversee\\\", \\\"contribute\\\"], \\\"defining_responsibility_signals\\\": [\\\"oversee financial operations\\\", \\\"contribute to legacy\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 116, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Manufacturing Controllers\", \"defining_skills\": [\"financial\", \"administrative\", \"project management\"], \"defining_responsibility_signals\": [\"lead\", \"oversee\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 116, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Manufacturing Controllers\\\", \\\"defining_skills\\\": [\\\"financial\\\", \\\"administrative\\\", \\\"project management\\\"], \\\"defining_responsibility_signals\\\": [\\\"lead\\\", \\\"oversee\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 5
+  },
+  {
+    "community_id": 117,
+    "community_size": 77,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Banking Office Professionals",
+    "defining_skills": [
+      "relationship building",
+      "problem solving",
+      "critical thinking"
+    ],
+    "defining_responsibility_signals": [
+      "branch office support",
+      "team collaboration"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.889,
+    "calls_used": 3,
+    "top_title_keywords": "manager, branch, bank, sales, banking, office, administrator, mortgage, community, consultant, client, commercial",
+    "raw_call_outputs": "[{\"community_id\": 117, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Banking Managers\", \"defining_skills\": [\"sales\", \"consulting\", \"client management\"], \"defining_responsibility_signals\": [\"lead team\", \"drive results\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 117, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Banking Managers\\\", \\\"defining_skills\\\": [\\\"sales\\\", \\\"consulting\\\", \\\"client management\\\"], \\\"defining_responsibility_signals\\\": [\\\"lead team\\\", \\\"drive results\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 117, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Banking Office Professionals\", \"defining_skills\": [\"relationship building\", \"problem solving\", \"critical thinking\"], \"defining_responsibility_signals\": [\"branch office support\", \"team collaboration\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 117, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Banking Office Professionals\\\", \\\"defining_skills\\\": [\\\"relationship building\\\", \\\"problem solving\\\", \\\"critical thinking\\\"], \\\"defining_responsibility_signals\\\": [\\\"branch office support\\\", \\\"team collaboration\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 117, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Banking Office Professionals\", \"defining_skills\": [\"relationship building\", \"problem solving\", \"critical thinking\"], \"defining_responsibility_signals\": [\"branch office support\", \"team collaboration\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 117, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Banking Office Professionals\\\", \\\"defining_skills\\\": [\\\"relationship building\\\", \\\"problem solving\\\", \\\"critical thinking\\\"], \\\"defining_responsibility_signals\\\": [\\\"branch office support\\\", \\\"team collaboration\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 5
+  },
+  {
+    "community_id": 118,
+    "community_size": 77,
+    "dominant_experience_level": "junior",
+    "entry_accessibility": "clear_entry_point",
+    "community_label": "Patient Service Representatives",
+    "defining_skills": [
+      "call tracking software",
+      "phone calls",
+      "internet queries"
+    ],
+    "defining_responsibility_signals": [
+      "answers and replies to a large volume of telephone calls",
+      "maintains professionally written accurate and detailed documentation"
+    ],
+    "confidence": "high",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.333,
+    "overall_agreement": 0.778,
+    "calls_used": 3,
+    "top_title_keywords": "patient, representative, service, services, rep, medical, access, customer, scribe, specialist, days, solutions",
+    "raw_call_outputs": "[{\"community_id\": 118, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Patient Service Representatives\", \"defining_skills\": [\"call tracking software\", \"phone calls\", \"internet queries\"], \"defining_responsibility_signals\": [\"answers and replies to a large volume of telephone calls\", \"maintains professionally written accurate and detailed documentation\"], \"confidence\": \"high\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 118, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Patient Service Representatives\\\", \\\"defining_skills\\\": [\\\"call tracking software\\\", \\\"phone calls\\\", \\\"internet queries\\\"], \\\"defining_responsibility_signals\\\": [\\\"answers and replies to a large volume of telephone calls\\\", \\\"maintains professionally written accurate and detailed documentation\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 118, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Patient Services\", \"defining_skills\": [\"interpersonal skills\", \"professional demeanor\", \"patient management\"], \"defining_responsibility_signals\": [\"greet and welcome patients\", \"manage patient flow\"], \"confidence\": \"high\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 118, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Patient Services\\\", \\\"defining_skills\\\": [\\\"interpersonal skills\\\", \\\"professional demeanor\\\", \\\"patient management\\\"], \\\"defining_responsibility_signals\\\": [\\\"greet and welcome patients\\\", \\\"manage patient flow\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 118, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Medical Patient Service\", \"defining_skills\": [\"customer service\", \"medical terminology\", \"scheduling\"], \"defining_responsibility_signals\": [\"handle patient inquiries\", \"schedule appointments\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 118, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Medical Patient Service\\\", \\\"defining_skills\\\": [\\\"customer service\\\", \\\"medical terminology\\\", \\\"scheduling\\\"], \\\"defining_responsibility_signals\\\": [\\\"handle patient inquiries\\\", \\\"schedule appointments\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 5
+  },
+  {
+    "community_id": 119,
+    "community_size": 76,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "restricted_entry_point",
+    "community_label": "Medical Travel Nurse",
+    "defining_skills": [
+      "medical",
+      "RN license",
+      "surgical"
+    ],
+    "defining_responsibility_signals": [
+      "registered nurse",
+      "team addition"
+    ],
+    "confidence": "high",
+    "level_agreement": 1.0,
+    "access_agreement": 0.667,
+    "label_agreement": 1.0,
+    "overall_agreement": 0.889,
+    "calls_used": 3,
+    "top_title_keywords": "nurse, travel, registered, week, telemetry, per, med, surg, make, medical, ltac, surgical",
+    "raw_call_outputs": "[{\"community_id\": 119, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Medical Travel Nurse\", \"defining_skills\": [\"registered nurse\", \"telemetry\", \"medical\"], \"defining_responsibility_signals\": [\"care for patients\", \"administer medications\"], \"confidence\": \"high\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 119, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Medical Travel Nurse\\\", \\\"defining_skills\\\": [\\\"registered nurse\\\", \\\"telemetry\\\", \\\"medical\\\"], \\\"defining_responsibility_signals\\\": [\\\"care for patients\\\", \\\"administer medications\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 119, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Medical Travel Nurse\", \"defining_skills\": [\"RN license\", \"medical\", \"surgical\"], \"defining_responsibility_signals\": [\"registered nurse\", \"team addition\"], \"confidence\": \"high\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 119, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Medical Travel Nurse\\\", \\\"defining_skills\\\": [\\\"RN license\\\", \\\"medical\\\", \\\"surgical\\\"], \\\"defining_responsibility_signals\\\": [\\\"registered nurse\\\", \\\"team addition\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 119, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Medical Travel Nurse\", \"defining_skills\": [\"RN license\", \"medical\", \"surgical\"], \"defining_responsibility_signals\": [\"registered nurse\", \"team addition\"], \"confidence\": \"high\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 119, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Medical Travel Nurse\\\", \\\"defining_skills\\\": [\\\"RN license\\\", \\\"medical\\\", \\\"surgical\\\"], \\\"defining_responsibility_signals\\\": [\\\"registered nurse\\\", \\\"team addition\\\"], \\\"confidence\\\": \\\"high\\\"}\"}]",
+    "batch_id": 5
+  },
+  {
+    "community_id": 120,
+    "community_size": 76,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Sales & Marketing Specialists",
+    "defining_skills": [
+      "sales",
+      "marketing",
+      "consultant"
+    ],
+    "defining_responsibility_signals": [
+      "inside sales",
+      "entry-level consultant"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.333,
+    "overall_agreement": 0.778,
+    "calls_used": 3,
+    "top_title_keywords": "sales, specialist, representative, marketing, outside, consultant, entry, development, inside, manager, market, supervisor",
+    "raw_call_outputs": "[{\"community_id\": 120, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Sales & Marketing Specialists\", \"defining_skills\": [\"sales\", \"marketing\", \"consultant\"], \"defining_responsibility_signals\": [\"inside sales\", \"entry-level consultant\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 120, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Sales & Marketing Specialists\\\", \\\"defining_skills\\\": [\\\"sales\\\", \\\"marketing\\\", \\\"consultant\\\"], \\\"defining_responsibility_signals\\\": [\\\"inside sales\\\", \\\"entry-level consultant\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 120, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Inside Sales\", \"defining_skills\": [\"sales\", \"consultant\", \"remote\"], \"defining_responsibility_signals\": [\"entry-level\", \"learn\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 120, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Inside Sales\\\", \\\"defining_skills\\\": [\\\"sales\\\", \\\"consultant\\\", \\\"remote\\\"], \\\"defining_responsibility_signals\\\": [\\\"entry-level\\\", \\\"learn\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 120, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Marketing & Sales Specialists\", \"defining_skills\": [\"sales\", \"marketing\", \"pr\"], \"defining_responsibility_signals\": [\"representative\", \"consultant\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 120, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Marketing & Sales Specialists\\\", \\\"defining_skills\\\": [\\\"sales\\\", \\\"marketing\\\", \\\"pr\\\"], \\\"defining_responsibility_signals\\\": [\\\"representative\\\", \\\"consultant\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 5
+  },
+  {
+    "community_id": 121,
+    "community_size": 76,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Marketing Management",
+    "defining_skills": [
+      "marketing strategies",
+      "brand initiatives",
+      "team leadership"
+    ],
+    "defining_responsibility_signals": [
+      "oversee marketing efforts",
+      "lead diverse team"
+    ],
+    "confidence": "high",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.333,
+    "overall_agreement": 0.778,
+    "calls_used": 3,
+    "top_title_keywords": "marketing, manager, senior, coordinator, brand, assistant, customer, specialist, event, campaign, entry, events",
+    "raw_call_outputs": "[{\"community_id\": 121, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Marketing Management\", \"defining_skills\": [\"marketing strategies\", \"brand initiatives\", \"team leadership\"], \"defining_responsibility_signals\": [\"oversee marketing efforts\", \"lead diverse team\"], \"confidence\": \"high\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 121, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Marketing Management\\\", \\\"defining_skills\\\": [\\\"marketing strategies\\\", \\\"brand initiatives\\\", \\\"team leadership\\\"], \\\"defining_responsibility_signals\\\": [\\\"oversee marketing efforts\\\", \\\"lead diverse team\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 121, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Marketing Managers\", \"defining_skills\": [\"brand identity\", \"marketing strategy\", \"enrollment strategy\"], \"defining_responsibility_signals\": [\"develop comprehensive strategies\", \"help shape winning marketing\"], \"confidence\": \"high\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 121, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Marketing Managers\\\", \\\"defining_skills\\\": [\\\"brand identity\\\", \\\"marketing strategy\\\", \\\"enrollment strategy\\\"], \\\"defining_responsibility_signals\\\": [\\\"develop comprehensive strategies\\\", \\\"help shape winning marketing\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 121, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Marketing Professionals\", \"defining_skills\": [\"campaign management\", \"event planning\", \"brand strategy\"], \"defining_responsibility_signals\": [\"coordinate events\", \"implement marketing strategies\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 121, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Marketing Professionals\\\", \\\"defining_skills\\\": [\\\"campaign management\\\", \\\"event planning\\\", \\\"brand strategy\\\"], \\\"defining_responsibility_signals\\\": [\\\"coordinate events\\\", \\\"implement marketing strategies\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 5
+  },
+  {
+    "community_id": 122,
+    "community_size": 76,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Mid-Level Tech",
+    "defining_skills": [
+      "java",
+      "cloud",
+      "spring"
+    ],
+    "defining_responsibility_signals": [
+      "lead",
+      "design and development"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.889,
+    "calls_used": 3,
+    "top_title_keywords": "engineer, developer, senior, software, java, stack, cloud, lead, devops, azure, architect, node",
+    "raw_call_outputs": "[{\"community_id\": 122, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Java Developers\", \"defining_skills\": [\"java\", \"spring\", \"spring-boot\"], \"defining_responsibility_signals\": [\"lead\", \"design and development\"], \"confidence\": \"high\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 122, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Java Developers\\\", \\\"defining_skills\\\": [\\\"java\\\", \\\"spring\\\", \\\"spring-boot\\\"], \\\"defining_responsibility_signals\\\": [\\\"lead\\\", \\\"design and development\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 122, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Mid-Level Tech\", \"defining_skills\": [\"java\", \"cloud\", \"azure\"], \"defining_responsibility_signals\": [\"lead\", \"architect\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 122, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Mid-Level Tech\\\", \\\"defining_skills\\\": [\\\"java\\\", \\\"cloud\\\", \\\"azure\\\"], \\\"defining_responsibility_signals\\\": [\\\"lead\\\", \\\"architect\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 122, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Mid-Level Tech\", \"defining_skills\": [\"java\", \"cloud\", \"devops\"], \"defining_responsibility_signals\": [\"implement\", \"maintain\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 122, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Mid-Level Tech\\\", \\\"defining_skills\\\": [\\\"java\\\", \\\"cloud\\\", \\\"devops\\\"], \\\"defining_responsibility_signals\\\": [\\\"implement\\\", \\\"maintain\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 5
+  },
+  {
+    "community_id": 123,
+    "community_size": 76,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Compliance Management",
+    "defining_skills": [
+      "compliance program guidance",
+      "advisory role",
+      "line of business leadership"
+    ],
+    "defining_responsibility_signals": [
+      "provide guidance and direction",
+      "serve as trusted advisor"
+    ],
+    "confidence": "medium",
+    "level_agreement": 0.667,
+    "access_agreement": 0.667,
+    "label_agreement": 0.333,
+    "overall_agreement": 0.556,
+    "calls_used": 3,
+    "top_title_keywords": "compliance, manager, officer, specialist, regulatory, analyst, senior, director, affairs, advisory, chief, corporate",
+    "raw_call_outputs": "[{\"community_id\": 123, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Compliance Management\", \"defining_skills\": [\"compliance program guidance\", \"advisory role\", \"line of business leadership\"], \"defining_responsibility_signals\": [\"provide guidance and direction\", \"serve as trusted advisor\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 123, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Compliance Management\\\", \\\"defining_skills\\\": [\\\"compliance program guidance\\\", \\\"advisory role\\\", \\\"line of business leadership\\\"], \\\"defining_responsibility_signals\\\": [\\\"provide guidance and direction\\\", \\\"serve as trusted advisor\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 123, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Compliance & Advisory\", \"defining_skills\": [\"compliance\", \"regulatory\", \"advisory\"], \"defining_responsibility_signals\": [\"manager\", \"officer\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 123, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Compliance & Advisory\\\", \\\"defining_skills\\\": [\\\"compliance\\\", \\\"regulatory\\\", \\\"advisory\\\"], \\\"defining_responsibility_signals\\\": [\\\"manager\\\", \\\"officer\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 123, \"dominant_experience_level\": \"senior\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Compliance Leadership\", \"defining_skills\": [\"compliance expertise\", \"global regulatory knowledge\", \"financial services industry experience\"], \"defining_responsibility_signals\": [\"navigate global regulations\", \"lead compliance efforts\"], \"confidence\": \"high\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 123, \\\"dominant_experience_level\\\": \\\"senior\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Compliance Leadership\\\", \\\"defining_skills\\\": [\\\"compliance expertise\\\", \\\"global regulatory knowledge\\\", \\\"financial services industry experience\\\"], \\\"defining_responsibility_signals\\\": [\\\"navigate global regulations\\\", \\\"lead compliance efforts\\\"], \\\"confidence\\\": \\\"high\\\"}\"}]",
+    "batch_id": 5
+  },
+  {
+    "community_id": 124,
+    "community_size": 75,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Procurement Management",
+    "defining_skills": [
+      "procurement",
+      "purchasing",
+      "contracts"
+    ],
+    "defining_responsibility_signals": [
+      "support",
+      "ensure best value"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 1.0,
+    "overall_agreement": 1.0,
+    "calls_used": 3,
+    "top_title_keywords": "procurement, manager, buyer, specialist, senior, purchasing, director, sourcing, contracts, principal, lead, commodity",
+    "raw_call_outputs": "[{\"community_id\": 124, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Procurement Management\", \"defining_skills\": [\"procurement\", \"purchasing\", \"contracts\"], \"defining_responsibility_signals\": [\"support\", \"ensure best value\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 124, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Procurement Management\\\", \\\"defining_skills\\\": [\\\"procurement\\\", \\\"purchasing\\\", \\\"contracts\\\"], \\\"defining_responsibility_signals\\\": [\\\"support\\\", \\\"ensure best value\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 124, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Procurement Management\", \"defining_skills\": [\"procurement strategy\", \"cost-saving opportunities\", \"supply chain practices\"], \"defining_responsibility_signals\": [\"driving innovation\", \"aligning with financial goals\"], \"confidence\": \"high\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 124, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Procurement Management\\\", \\\"defining_skills\\\": [\\\"procurement strategy\\\", \\\"cost-saving opportunities\\\", \\\"supply chain practices\\\"], \\\"defining_responsibility_signals\\\": [\\\"driving innovation\\\", \\\"aligning with financial goals\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 124, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Procurement Management\", \"defining_skills\": [\"procurement strategies\", \"tactical execution\", \"team management\"], \"defining_responsibility_signals\": [\"implement sourcing strategies\", \"execute procurement activities\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 124, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Procurement Management\\\", \\\"defining_skills\\\": [\\\"procurement strategies\\\", \\\"tactical execution\\\", \\\"team management\\\"], \\\"defining_responsibility_signals\\\": [\\\"implement sourcing strategies\\\", \\\"execute procurement activities\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 5
+  }
+]

@@ -1,0 +1,627 @@
+[
+  {
+    "community_id": 925,
+    "community_size": 18,
+    "dominant_experience_level": "junior",
+    "entry_accessibility": "restricted_entry_point",
+    "community_label": "Mental Health Tech",
+    "defining_skills": [
+      "telemetry",
+      "acute care",
+      "patient care"
+    ],
+    "defining_responsibility_signals": [
+      "provide patient care",
+      "assist healthcare team"
+    ],
+    "confidence": "high",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.333,
+    "overall_agreement": 0.778,
+    "calls_used": 3,
+    "top_title_keywords": "nurse, licensed, smnj, vocational, lvn, telemetry, acute, adult, patient, health, registered, smrmc",
+    "raw_call_outputs": "[{\"community_id\": 925, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Mental Health Tech\", \"defining_skills\": [\"telemetry\", \"acute care\", \"patient care\"], \"defining_responsibility_signals\": [\"provide patient care\", \"assist healthcare team\"], \"confidence\": \"high\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 925, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Mental Health Tech\\\", \\\"defining_skills\\\": [\\\"telemetry\\\", \\\"acute care\\\", \\\"patient care\\\"], \\\"defining_responsibility_signals\\\": [\\\"provide patient care\\\", \\\"assist healthcare team\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 925, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Licensed Practical Nurse\", \"defining_skills\": [\"telemetry\", \"acute care\", \"adult patient\"], \"defining_responsibility_signals\": [\"join an award-winning team\", \"dedicated professionals\"], \"confidence\": \"high\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 925, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Licensed Practical Nurse\\\", \\\"defining_skills\\\": [\\\"telemetry\\\", \\\"acute care\\\", \\\"adult patient\\\"], \\\"defining_responsibility_signals\\\": [\\\"join an award-winning team\\\", \\\"dedicated professionals\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 925, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Nursing Professionals\", \"defining_skills\": [\"telemetry\", \"acute care\", \"patient care\"], \"defining_responsibility_signals\": [\"float\", \"join team\"], \"confidence\": \"high\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 925, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Nursing Professionals\\\", \\\"defining_skills\\\": [\\\"telemetry\\\", \\\"acute care\\\", \\\"patient care\\\"], \\\"defining_responsibility_signals\\\": [\\\"float\\\", \\\"join team\\\"], \\\"confidence\\\": \\\"high\\\"}\"}]",
+    "batch_id": 38
+  },
+  {
+    "community_id": 926,
+    "community_size": 18,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Manufacturing Production",
+    "defining_skills": [
+      "production",
+      "manufacturing",
+      "assistant"
+    ],
+    "defining_responsibility_signals": [
+      "ensure smooth operation",
+      "range of crucial tasks"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.889,
+    "calls_used": 3,
+    "top_title_keywords": "production, specialist, worker, 2nd, shift, manufacturing, assistant, manager, unifirst, management, eng, material",
+    "raw_call_outputs": "[{\"community_id\": 926, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Manufacturing Production\", \"defining_skills\": [\"production\", \"manufacturing\", \"assistant\"], \"defining_responsibility_signals\": [\"ensure smooth operation\", \"range of crucial tasks\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 926, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Manufacturing Production\\\", \\\"defining_skills\\\": [\\\"production\\\", \\\"manufacturing\\\", \\\"assistant\\\"], \\\"defining_responsibility_signals\\\": [\\\"ensure smooth operation\\\", \\\"range of crucial tasks\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 926, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Manufacturing Production\", \"defining_skills\": [\"production\", \"shift\", \"material\"], \"defining_responsibility_signals\": [\"hourly shift\", \"second shift\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 926, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Manufacturing Production\\\", \\\"defining_skills\\\": [\\\"production\\\", \\\"shift\\\", \\\"material\\\"], \\\"defining_responsibility_signals\\\": [\\\"hourly shift\\\", \\\"second shift\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 926, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Manufacturing Production Worker\", \"defining_skills\": [\"production\", \"meeting deadlines\", \"maintaining standards\"], \"defining_responsibility_signals\": [\"support production\", \"meet production deadlines\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 926, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Manufacturing Production Worker\\\", \\\"defining_skills\\\": [\\\"production\\\", \\\"meeting deadlines\\\", \\\"maintaining standards\\\"], \\\"defining_responsibility_signals\\\": [\\\"support production\\\", \\\"meet production deadlines\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 38
+  },
+  {
+    "community_id": 927,
+    "community_size": 18,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Clinical Research",
+    "defining_skills": [
+      "clinical trial management",
+      "clinical trial monitoring",
+      "protocol compliance"
+    ],
+    "defining_responsibility_signals": [
+      "provide oversight and leadership",
+      "ensure quality and compliance"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.333,
+    "overall_agreement": 0.778,
+    "calls_used": 3,
+    "top_title_keywords": "clinical, research, senior, safety, cra, trial, study, manager, reviewer, assistant, drug, physician",
+    "raw_call_outputs": "[{\"community_id\": 927, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Clinical Research\", \"defining_skills\": [\"clinical trial monitoring\", \"protocol compliance\", \"clinical research associate\"], \"defining_responsibility_signals\": [\"provide oversight and leadership\", \"ensure quality and compliance\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 927, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Clinical Research\\\", \\\"defining_skills\\\": [\\\"clinical trial monitoring\\\", \\\"protocol compliance\\\", \\\"clinical research associate\\\"], \\\"defining_responsibility_signals\\\": [\\\"provide oversight and leadership\\\", \\\"ensure quality and compliance\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 927, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Clinical Research Manager\", \"defining_skills\": [\"clinical trial management\", \"study lead support\", \"hybrid work\"], \"defining_responsibility_signals\": [\"support clinical study lead\", \"take responsibility for areas\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 927, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Clinical Research Manager\\\", \\\"defining_skills\\\": [\\\"clinical trial management\\\", \\\"study lead support\\\", \\\"hybrid work\\\"], \\\"defining_responsibility_signals\\\": [\\\"support clinical study lead\\\", \\\"take responsibility for areas\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 927, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Clinical Trial Management\", \"defining_skills\": [\"clinical trial management\", \"study monitoring\", \"regulatory compliance\"], \"defining_responsibility_signals\": [\"oversee clinical trials\", \"ensure patient safety\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 927, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Clinical Trial Management\\\", \\\"defining_skills\\\": [\\\"clinical trial management\\\", \\\"study monitoring\\\", \\\"regulatory compliance\\\"], \\\"defining_responsibility_signals\\\": [\\\"oversee clinical trials\\\", \\\"ensure patient safety\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 38
+  },
+  {
+    "community_id": 928,
+    "community_size": 18,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Mechanical Engineer",
+    "defining_skills": [
+      "piping",
+      "HVAC",
+      "valve"
+    ],
+    "defining_responsibility_signals": [
+      "design",
+      "support"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 1.0,
+    "overall_agreement": 1.0,
+    "calls_used": 3,
+    "top_title_keywords": "engineer, mechanical, pipe, senior, plumbing, stress, designer, design, hvac, piping, valve, support",
+    "raw_call_outputs": "[{\"community_id\": 928, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Mechanical Engineer\", \"defining_skills\": [\"piping\", \"valve\", \"HVAC\"], \"defining_responsibility_signals\": [\"design\", \"support\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 928, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Mechanical Engineer\\\", \\\"defining_skills\\\": [\\\"piping\\\", \\\"valve\\\", \\\"HVAC\\\"], \\\"defining_responsibility_signals\\\": [\\\"design\\\", \\\"support\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 928, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Mechanical Engineer\", \"defining_skills\": [\"pipe support\", \"HVAC\", \"piping\"], \"defining_responsibility_signals\": [\"design\", \"support\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 928, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Mechanical Engineer\\\", \\\"defining_skills\\\": [\\\"pipe support\\\", \\\"HVAC\\\", \\\"piping\\\"], \\\"defining_responsibility_signals\\\": [\\\"design\\\", \\\"support\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 928, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Mechanical Engineer\", \"defining_skills\": [\"pipe material\", \"valve material\", \"design\"], \"defining_responsibility_signals\": [\"requisition id\", \"relocation authorized\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 928, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Mechanical Engineer\\\", \\\"defining_skills\\\": [\\\"pipe material\\\", \\\"valve material\\\", \\\"design\\\"], \\\"defining_responsibility_signals\\\": [\\\"requisition id\\\", \\\"relocation authorized\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 38
+  },
+  {
+    "community_id": 929,
+    "community_size": 18,
+    "dominant_experience_level": "junior",
+    "entry_accessibility": "restricted_entry_point",
+    "community_label": "Licensed Therapists",
+    "defining_skills": [
+      "clinical psychology",
+      "telehealth",
+      "face-to-face sessions"
+    ],
+    "defining_responsibility_signals": [
+      "provide therapy sessions",
+      "help people live happy successful lives"
+    ],
+    "confidence": "high",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.889,
+    "calls_used": 3,
+    "top_title_keywords": "licensed, psychologist, clinical, social, worker, talk, therapist, lpc",
+    "raw_call_outputs": "[{\"community_id\": 929, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Licensed Therapists\", \"defining_skills\": [\"clinical psychology\", \"telehealth\", \"face-to-face sessions\"], \"defining_responsibility_signals\": [\"provide therapy sessions\", \"help people live happy successful lives\"], \"confidence\": \"high\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 929, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Licensed Therapists\\\", \\\"defining_skills\\\": [\\\"clinical psychology\\\", \\\"telehealth\\\", \\\"face-to-face sessions\\\"], \\\"defining_responsibility_signals\\\": [\\\"provide therapy sessions\\\", \\\"help people live happy successful lives\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 929, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Licensed Psychologists\", \"defining_skills\": [\"telehealth\", \"face-to-face sessions\", \"clinical psychology\"], \"defining_responsibility_signals\": [\"provide therapy sessions\", \"help people live happy successful lives\"], \"confidence\": \"high\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 929, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Licensed Psychologists\\\", \\\"defining_skills\\\": [\\\"telehealth\\\", \\\"face-to-face sessions\\\", \\\"clinical psychology\\\"], \\\"defining_responsibility_signals\\\": [\\\"provide therapy sessions\\\", \\\"help people live happy successful lives\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 929, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Licensed Therapists\", \"defining_skills\": [\"telehealth\", \"face-to-face sessions\", \"clinical psychology\"], \"defining_responsibility_signals\": [\"provide therapy sessions\", \"help people live happy successful lives\"], \"confidence\": \"high\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 929, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Licensed Therapists\\\", \\\"defining_skills\\\": [\\\"telehealth\\\", \\\"face-to-face sessions\\\", \\\"clinical psychology\\\"], \\\"defining_responsibility_signals\\\": [\\\"provide therapy sessions\\\", \\\"help people live happy successful lives\\\"], \\\"confidence\\\": \\\"high\\\"}\"}]",
+    "batch_id": 38
+  },
+  {
+    "community_id": 930,
+    "community_size": 18,
+    "dominant_experience_level": "junior",
+    "entry_accessibility": "restricted_entry_point",
+    "community_label": "Valet Services",
+    "defining_skills": [
+      "valet",
+      "shuttle",
+      "driver"
+    ],
+    "defining_responsibility_signals": [
+      "assist guests",
+      "attend to vehicles"
+    ],
+    "confidence": "high",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 1.0,
+    "overall_agreement": 1.0,
+    "calls_used": 3,
+    "top_title_keywords": "valet, shuttle, driver, dot, special, events, attendant, management, trainee, cashier",
+    "raw_call_outputs": "[{\"community_id\": 930, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Valet Services\", \"defining_skills\": [\"valet\", \"shuttle\", \"driver\"], \"defining_responsibility_signals\": [\"attend to vehicles\", \"assist guests\"], \"confidence\": \"high\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 930, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Valet Services\\\", \\\"defining_skills\\\": [\\\"valet\\\", \\\"shuttle\\\", \\\"driver\\\"], \\\"defining_responsibility_signals\\\": [\\\"attend to vehicles\\\", \\\"assist guests\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 930, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Valet Services\", \"defining_skills\": [\"valet\", \"shuttle\", \"driver\"], \"defining_responsibility_signals\": [\"attend vehicles\", \"assist guests\"], \"confidence\": \"high\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 930, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Valet Services\\\", \\\"defining_skills\\\": [\\\"valet\\\", \\\"shuttle\\\", \\\"driver\\\"], \\\"defining_responsibility_signals\\\": [\\\"attend vehicles\\\", \\\"assist guests\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 930, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Valet Services\", \"defining_skills\": [\"valet\", \"shuttle\", \"driver\"], \"defining_responsibility_signals\": [\"parking vehicles\", \"customer service\"], \"confidence\": \"high\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 930, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Valet Services\\\", \\\"defining_skills\\\": [\\\"valet\\\", \\\"shuttle\\\", \\\"driver\\\"], \\\"defining_responsibility_signals\\\": [\\\"parking vehicles\\\", \\\"customer service\\\"], \\\"confidence\\\": \\\"high\\\"}\"}]",
+    "batch_id": 38
+  },
+  {
+    "community_id": 931,
+    "community_size": 18,
+    "dominant_experience_level": "junior",
+    "entry_accessibility": "clear_entry_point",
+    "community_label": "Quality Control Technicians",
+    "defining_skills": [
+      "quality control",
+      "equipment",
+      "tech"
+    ],
+    "defining_responsibility_signals": [
+      "control",
+      "maintain"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.889,
+    "calls_used": 3,
+    "top_title_keywords": "operator, manager, equipment, plant, heavy, quality, control, tech, electrical, mobile, terminal, valley",
+    "raw_call_outputs": "[{\"community_id\": 931, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Quality Control Technicians\", \"defining_skills\": [\"quality control\", \"equipment\", \"tech\"], \"defining_responsibility_signals\": [\"control\", \"maintain\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 931, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Quality Control Technicians\\\", \\\"defining_skills\\\": [\\\"quality control\\\", \\\"equipment\\\", \\\"tech\\\"], \\\"defining_responsibility_signals\\\": [\\\"control\\\", \\\"maintain\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 931, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Quality Control Technicians\", \"defining_skills\": [\"quality control\", \"equipment\", \"tech\"], \"defining_responsibility_signals\": [\"control\", \"maintain\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 931, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Quality Control Technicians\\\", \\\"defining_skills\\\": [\\\"quality control\\\", \\\"equipment\\\", \\\"tech\\\"], \\\"defining_responsibility_signals\\\": [\\\"control\\\", \\\"maintain\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 931, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Plant Operators\", \"defining_skills\": [\"equipment operation\", \"quality control\", \"mobile terminal\"], \"defining_responsibility_signals\": [\"operate heavy machinery\", \"maintain plant equipment\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 931, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Plant Operators\\\", \\\"defining_skills\\\": [\\\"equipment operation\\\", \\\"quality control\\\", \\\"mobile terminal\\\"], \\\"defining_responsibility_signals\\\": [\\\"operate heavy machinery\\\", \\\"maintain plant equipment\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 38
+  },
+  {
+    "community_id": 932,
+    "community_size": 18,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Infrastructure Project Management",
+    "defining_skills": [
+      "project management",
+      "infrastructure",
+      "contract management"
+    ],
+    "defining_responsibility_signals": [
+      "define project scope",
+      "manage teams"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.333,
+    "overall_agreement": 0.778,
+    "calls_used": 3,
+    "top_title_keywords": "engineer, manager, consultant, project, cae, program, aravo, sap, btp, active, directory, architect",
+    "raw_call_outputs": "[{\"community_id\": 932, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Infrastructure Project Management\", \"defining_skills\": [\"project management\", \"infrastructure\", \"contract management\"], \"defining_responsibility_signals\": [\"define project scope\", \"manage teams\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 932, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Infrastructure Project Management\\\", \\\"defining_skills\\\": [\\\"project management\\\", \\\"infrastructure\\\", \\\"contract management\\\"], \\\"defining_responsibility_signals\\\": [\\\"define project scope\\\", \\\"manage teams\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 932, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"IT Program Management\", \"defining_skills\": [\"program management\", \"consulting\", \"digital transformation\"], \"defining_responsibility_signals\": [\"define direction\", \"implement projects\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 932, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"IT Program Management\\\", \\\"defining_skills\\\": [\\\"program management\\\", \\\"consulting\\\", \\\"digital transformation\\\"], \\\"defining_responsibility_signals\\\": [\\\"define direction\\\", \\\"implement projects\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 932, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"IT Consulting\", \"defining_skills\": [\"SAP\", \"BTP\", \"CAE\"], \"defining_responsibility_signals\": [\"implement\", \"maintain\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 932, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"IT Consulting\\\", \\\"defining_skills\\\": [\\\"SAP\\\", \\\"BTP\\\", \\\"CAE\\\"], \\\"defining_responsibility_signals\\\": [\\\"implement\\\", \\\"maintain\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 38
+  },
+  {
+    "community_id": 933,
+    "community_size": 18,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Hotel Attendants",
+    "defining_skills": [
+      "valet",
+      "attendant",
+      "customer service"
+    ],
+    "defining_responsibility_signals": [
+      "join our team",
+      "exude hospitality"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.333,
+    "overall_agreement": 0.778,
+    "calls_used": 3,
+    "top_title_keywords": "valet, attendant, overnight, breakfast, sales, manager, dish, steward, server, laundry, task, force",
+    "raw_call_outputs": "[{\"community_id\": 933, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Hotel Attendants\", \"defining_skills\": [\"valet\", \"attendant\", \"customer service\"], \"defining_responsibility_signals\": [\"service-oriented\", \"join our team\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 933, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Hotel Attendants\\\", \\\"defining_skills\\\": [\\\"valet\\\", \\\"attendant\\\", \\\"customer service\\\"], \\\"defining_responsibility_signals\\\": [\\\"service-oriented\\\", \\\"join our team\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 933, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Hospitality Attendants\", \"defining_skills\": [\"service-oriented\", \"breakfast preparation\", \"customer interaction\"], \"defining_responsibility_signals\": [\"join our team\", \"exude hospitality\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 933, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Hospitality Attendants\\\", \\\"defining_skills\\\": [\\\"service-oriented\\\", \\\"breakfast preparation\\\", \\\"customer interaction\\\"], \\\"defining_responsibility_signals\\\": [\\\"join our team\\\", \\\"exude hospitality\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 933, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Hospitality Task Force\", \"defining_skills\": [\"sales\", \"management\", \"hospitality\"], \"defining_responsibility_signals\": [\"join our team\", \"exude hospitality\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 933, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Hospitality Task Force\\\", \\\"defining_skills\\\": [\\\"sales\\\", \\\"management\\\", \\\"hospitality\\\"], \\\"defining_responsibility_signals\\\": [\\\"join our team\\\", \\\"exude hospitality\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 38
+  },
+  {
+    "community_id": 934,
+    "community_size": 18,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Medical Technicians",
+    "defining_skills": [
+      "technician",
+      "certified",
+      "scheduling"
+    ],
+    "defining_responsibility_signals": [
+      "coordinate",
+      "support physician specialists"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.889,
+    "calls_used": 3,
+    "top_title_keywords": "center, surgery, surgical, technician, technologist, medical, physician, liaision, certified, acute, tech, scheduler",
+    "raw_call_outputs": "[{\"community_id\": 934, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Medical Scheduler\", \"defining_skills\": [\"scheduling\", \"liaison\", \"patient care\"], \"defining_responsibility_signals\": [\"coordinate\", \"support physician specialists\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 934, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Medical Scheduler\\\", \\\"defining_skills\\\": [\\\"scheduling\\\", \\\"liaison\\\", \\\"patient care\\\"], \\\"defining_responsibility_signals\\\": [\\\"coordinate\\\", \\\"support physician specialists\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 934, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Medical Technicians\", \"defining_skills\": [\"surgical\", \"technician\", \"certified\"], \"defining_responsibility_signals\": [\"assist\", \"support\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 934, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Medical Technicians\\\", \\\"defining_skills\\\": [\\\"surgical\\\", \\\"technician\\\", \\\"certified\\\"], \\\"defining_responsibility_signals\\\": [\\\"assist\\\", \\\"support\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 934, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Medical Technicians\", \"defining_skills\": [\"certified\", \"technician\", \"technologist\"], \"defining_responsibility_signals\": [\"surgical assistance\", \"patient care\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 934, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Medical Technicians\\\", \\\"defining_skills\\\": [\\\"certified\\\", \\\"technician\\\", \\\"technologist\\\"], \\\"defining_responsibility_signals\\\": [\\\"surgical assistance\\\", \\\"patient care\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 38
+  },
+  {
+    "community_id": 935,
+    "community_size": 18,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Hospice Care Volunteers",
+    "defining_skills": [
+      "companionship",
+      "caregiving",
+      "communication"
+    ],
+    "defining_responsibility_signals": [
+      "support patients",
+      "volunteer"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.889,
+    "calls_used": 3,
+    "top_title_keywords": "volunteer, hospice, needed, companion, care, veterans, volunteers, moments, opportunities, spanish, speaking, coordinator",
+    "raw_call_outputs": "[{\"community_id\": 935, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Hospice Volunteer Care\", \"defining_skills\": [\"companionship\", \"visits\", \"care\"], \"defining_responsibility_signals\": [\"volunteer\", \"care for patients and families\"], \"confidence\": \"high\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 935, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Hospice Volunteer Care\\\", \\\"defining_skills\\\": [\\\"companionship\\\", \\\"visits\\\", \\\"care\\\"], \\\"defining_responsibility_signals\\\": [\\\"volunteer\\\", \\\"care for patients and families\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 935, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Hospice Care Volunteers\", \"defining_skills\": [\"caregiving\", \"companionship\", \"communication\"], \"defining_responsibility_signals\": [\"provide care\", \"support patients\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 935, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Hospice Care Volunteers\\\", \\\"defining_skills\\\": [\\\"caregiving\\\", \\\"companionship\\\", \\\"communication\\\"], \\\"defining_responsibility_signals\\\": [\\\"provide care\\\", \\\"support patients\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 935, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Hospice Care Volunteers\", \"defining_skills\": [\"caregiving\", \"communication\", \"companionship\"], \"defining_responsibility_signals\": [\"support patients\", \"coordinate care\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 935, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Hospice Care Volunteers\\\", \\\"defining_skills\\\": [\\\"caregiving\\\", \\\"communication\\\", \\\"companionship\\\"], \\\"defining_responsibility_signals\\\": [\\\"support patients\\\", \\\"coordinate care\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 38
+  },
+  {
+    "community_id": 936,
+    "community_size": 18,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "AV Event Technicians",
+    "defining_skills": [
+      "audio visual",
+      "event technology",
+      "production"
+    ],
+    "defining_responsibility_signals": [
+      "coordinate",
+      "implement"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.333,
+    "overall_agreement": 0.778,
+    "calls_used": 3,
+    "top_title_keywords": "audio, visual, technician, event, service, specialist, technology, production, engineer, events, contractor, coordinator",
+    "raw_call_outputs": "[{\"community_id\": 936, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"AV Event Technicians\", \"defining_skills\": [\"audio visual\", \"event technology\", \"production\"], \"defining_responsibility_signals\": [\"coordinate\", \"implement\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 936, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"AV Event Technicians\\\", \\\"defining_skills\\\": [\\\"audio visual\\\", \\\"event technology\\\", \\\"production\\\"], \\\"defining_responsibility_signals\\\": [\\\"coordinate\\\", \\\"implement\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 936, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"AV Event Support\", \"defining_skills\": [\"AV support\", \"event coordination\", \"video conferencing systems\"], \"defining_responsibility_signals\": [\"coordinate and execute AV support operations\", \"maintain cleanliness and organization\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 936, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"AV Event Support\\\", \\\"defining_skills\\\": [\\\"AV support\\\", \\\"event coordination\\\", \\\"video conferencing systems\\\"], \\\"defining_responsibility_signals\\\": [\\\"coordinate and execute AV support operations\\\", \\\"maintain cleanliness and organization\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 936, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Audio Visual Technicians\", \"defining_skills\": [\"audio visual\", \"installation\", \"maintenance\"], \"defining_responsibility_signals\": [\"lead\", \"install\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 936, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Audio Visual Technicians\\\", \\\"defining_skills\\\": [\\\"audio visual\\\", \\\"installation\\\", \\\"maintenance\\\"], \\\"defining_responsibility_signals\\\": [\\\"lead\\\", \\\"install\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 38
+  },
+  {
+    "community_id": 937,
+    "community_size": 18,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Operations Coordinators",
+    "defining_skills": [
+      "operations management",
+      "event coordination",
+      "fleet management"
+    ],
+    "defining_responsibility_signals": [
+      "coordinate services",
+      "manage teams"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.889,
+    "calls_used": 3,
+    "top_title_keywords": "driver, cdl, manager, non, fence, coordinator, director, route, service, technician, operations, sales",
+    "raw_call_outputs": "[{\"community_id\": 937, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Operations Coordinators\", \"defining_skills\": [\"operations management\", \"event coordination\", \"fleet management\"], \"defining_responsibility_signals\": [\"coordinate services\", \"manage teams\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 937, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Operations Coordinators\\\", \\\"defining_skills\\\": [\\\"operations management\\\", \\\"event coordination\\\", \\\"fleet management\\\"], \\\"defining_responsibility_signals\\\": [\\\"coordinate services\\\", \\\"manage teams\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 937, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Operations Coordinators\", \"defining_skills\": [\"operations management\", \"event coordination\", \"fleet management\"], \"defining_responsibility_signals\": [\"coordinate services\", \"manage teams\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 937, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Operations Coordinators\\\", \\\"defining_skills\\\": [\\\"operations management\\\", \\\"event coordination\\\", \\\"fleet management\\\"], \\\"defining_responsibility_signals\\\": [\\\"coordinate services\\\", \\\"manage teams\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 937, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Route Service Drivers\", \"defining_skills\": [\"CDL\", \"route management\", \"customer service\"], \"defining_responsibility_signals\": [\"route planning\", \"customer interaction\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 937, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Route Service Drivers\\\", \\\"defining_skills\\\": [\\\"CDL\\\", \\\"route management\\\", \\\"customer service\\\"], \\\"defining_responsibility_signals\\\": [\\\"route planning\\\", \\\"customer interaction\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 38
+  },
+  {
+    "community_id": 938,
+    "community_size": 18,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Healthcare Recruitment",
+    "defining_skills": [
+      "recruitment",
+      "sales",
+      "motivation"
+    ],
+    "defining_responsibility_signals": [
+      "apply competitive mindset",
+      "embrace opportunity"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 1.0,
+    "overall_agreement": 1.0,
+    "calls_used": 3,
+    "top_title_keywords": "recruiter, healthcare, physician, recruitment, veterinary, coordinator, senior, health, central, florida, junior, medical",
+    "raw_call_outputs": "[{\"community_id\": 938, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Healthcare Recruitment\", \"defining_skills\": [\"sales\", \"recruitment\", \"motivation\"], \"defining_responsibility_signals\": [\"apply competitive mindset\", \"embrace opportunity\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 938, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Healthcare Recruitment\\\", \\\"defining_skills\\\": [\\\"sales\\\", \\\"recruitment\\\", \\\"motivation\\\"], \\\"defining_responsibility_signals\\\": [\\\"apply competitive mindset\\\", \\\"embrace opportunity\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 938, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Healthcare Recruitment\", \"defining_skills\": [\"sales\", \"recruitment\", \"entrepreneurial\"], \"defining_responsibility_signals\": [\"apply competitive mindset\", \"embrace opportunity\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 938, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Healthcare Recruitment\\\", \\\"defining_skills\\\": [\\\"sales\\\", \\\"recruitment\\\", \\\"entrepreneurial\\\"], \\\"defining_responsibility_signals\\\": [\\\"apply competitive mindset\\\", \\\"embrace opportunity\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 938, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Healthcare Recruitment\", \"defining_skills\": [\"recruitment\", \"physician\", \"coordinator\"], \"defining_responsibility_signals\": [\"implement\", \"contribute\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 938, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Healthcare Recruitment\\\", \\\"defining_skills\\\": [\\\"recruitment\\\", \\\"physician\\\", \\\"coordinator\\\"], \\\"defining_responsibility_signals\\\": [\\\"implement\\\", \\\"contribute\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 38
+  },
+  {
+    "community_id": 939,
+    "community_size": 18,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Histology Technicians",
+    "defining_skills": [
+      "slide preparation",
+      "microscopic evaluation",
+      "histotechnology"
+    ],
+    "defining_responsibility_signals": [
+      "routine activities",
+      "general supervision"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.889,
+    "calls_used": 3,
+    "top_title_keywords": "histology, pathology, general, pathologist, technician, technologist, histotechnician, assistant, cytotechnologist, hospital, rex, anatomic",
+    "raw_call_outputs": "[{\"community_id\": 939, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Histology Technicians\", \"defining_skills\": [\"slide preparation\", \"microscopic evaluation\", \"histotechnology\"], \"defining_responsibility_signals\": [\"routine activities\", \"general supervision\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 939, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Histology Technicians\\\", \\\"defining_skills\\\": [\\\"slide preparation\\\", \\\"microscopic evaluation\\\", \\\"histotechnology\\\"], \\\"defining_responsibility_signals\\\": [\\\"routine activities\\\", \\\"general supervision\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 939, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Histology Technicians\", \"defining_skills\": [\"slide preparation\", \"tissue processing\", \"microscopic evaluation\"], \"defining_responsibility_signals\": [\"routine activities\", \"paperwork processing\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 939, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Histology Technicians\\\", \\\"defining_skills\\\": [\\\"slide preparation\\\", \\\"tissue processing\\\", \\\"microscopic evaluation\\\"], \\\"defining_responsibility_signals\\\": [\\\"routine activities\\\", \\\"paperwork processing\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 939, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Histology Technician\", \"defining_skills\": [\"histology\", \"pathology\", \"technician\"], \"defining_responsibility_signals\": [\"join labcorp team\", \"provide medical laboratory services\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 939, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Histology Technician\\\", \\\"defining_skills\\\": [\\\"histology\\\", \\\"pathology\\\", \\\"technician\\\"], \\\"defining_responsibility_signals\\\": [\\\"join labcorp team\\\", \\\"provide medical laboratory services\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 38
+  },
+  {
+    "community_id": 940,
+    "community_size": 18,
+    "dominant_experience_level": "junior",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Sales Representatives",
+    "defining_skills": [
+      "sales",
+      "territory management",
+      "customer relationship"
+    ],
+    "defining_responsibility_signals": [
+      "achieve sales targets",
+      "represent customers"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.889,
+    "calls_used": 3,
+    "top_title_keywords": "sales, representative, territory, city, springfield, township, ashland, kansas, gladstone, jupiter, toledo, hope",
+    "raw_call_outputs": "[{\"community_id\": 940, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Sales Representatives\", \"defining_skills\": [\"sales\", \"territory management\", \"customer relationship\"], \"defining_responsibility_signals\": [\"represent customers\", \"achieve sales targets\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 940, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Sales Representatives\\\", \\\"defining_skills\\\": [\\\"sales\\\", \\\"territory management\\\", \\\"customer relationship\\\"], \\\"defining_responsibility_signals\\\": [\\\"represent customers\\\", \\\"achieve sales targets\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 940, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Sales Representatives\", \"defining_skills\": [\"sales\", \"territory management\", \"customer relationship\"], \"defining_responsibility_signals\": [\"represent customers\", \"achieve sales targets\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 940, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Sales Representatives\\\", \\\"defining_skills\\\": [\\\"sales\\\", \\\"territory management\\\", \\\"customer relationship\\\"], \\\"defining_responsibility_signals\\\": [\\\"represent customers\\\", \\\"achieve sales targets\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 940, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Territory Sales Representatives\", \"defining_skills\": [\"sales\", \"territory management\", \"customer relationship\"], \"defining_responsibility_signals\": [\"represent brands\", \"achieve sales targets\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 940, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Territory Sales Representatives\\\", \\\"defining_skills\\\": [\\\"sales\\\", \\\"territory management\\\", \\\"customer relationship\\\"], \\\"defining_responsibility_signals\\\": [\\\"represent brands\\\", \\\"achieve sales targets\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 38
+  },
+  {
+    "community_id": 941,
+    "community_size": 18,
+    "dominant_experience_level": "junior",
+    "entry_accessibility": "clear_entry_point",
+    "community_label": "Energy Technicians",
+    "defining_skills": [
+      "technician",
+      "equipment",
+      "gas process"
+    ],
+    "defining_responsibility_signals": [
+      "execute assigned tasks",
+      "work under supervision"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.889,
+    "calls_used": 3,
+    "top_title_keywords": "technician, senior, analyst, controls, trainee, equipment, specialist, business, performance, gas, process, assistant",
+    "raw_call_outputs": "[{\"community_id\": 941, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Energy Technicians\", \"defining_skills\": [\"technician\", \"equipment\", \"gas process\"], \"defining_responsibility_signals\": [\"execute assigned tasks\", \"work under supervision\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 941, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Energy Technicians\\\", \\\"defining_skills\\\": [\\\"technician\\\", \\\"equipment\\\", \\\"gas process\\\"], \\\"defining_responsibility_signals\\\": [\\\"execute assigned tasks\\\", \\\"work under supervision\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 941, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Energy Technicians\", \"defining_skills\": [\"technician\", \"equipment\", \"gas process\"], \"defining_responsibility_signals\": [\"execute assigned tasks\", \"work under supervision\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 941, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Energy Technicians\\\", \\\"defining_skills\\\": [\\\"technician\\\", \\\"equipment\\\", \\\"gas process\\\"], \\\"defining_responsibility_signals\\\": [\\\"execute assigned tasks\\\", \\\"work under supervision\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 941, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Gas Appliance Sales\", \"defining_skills\": [\"sales\", \"customer service\", \"product knowledge\"], \"defining_responsibility_signals\": [\"creatively problem solve\", \"innovate\"], \"confidence\": \"high\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 941, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Gas Appliance Sales\\\", \\\"defining_skills\\\": [\\\"sales\\\", \\\"customer service\\\", \\\"product knowledge\\\"], \\\"defining_responsibility_signals\\\": [\\\"creatively problem solve\\\", \\\"innovate\\\"], \\\"confidence\\\": \\\"high\\\"}\"}]",
+    "batch_id": 38
+  },
+  {
+    "community_id": 942,
+    "community_size": 18,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Tech Rep in Building Industry",
+    "defining_skills": [
+      "platform innovation",
+      "digital platform",
+      "wood trusses"
+    ],
+    "defining_responsibility_signals": [
+      "transform building industry",
+      "enable better building solutions"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.333,
+    "overall_agreement": 0.778,
+    "calls_used": 3,
+    "top_title_keywords": "engineer, design, senior, 000, sign, bonus, rep, machinery, systems, specialist, product, manager",
+    "raw_call_outputs": "[{\"community_id\": 942, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Tech Rep in Building Industry\", \"defining_skills\": [\"platform innovation\", \"digital platform\", \"wood trusses\"], \"defining_responsibility_signals\": [\"transform building industry\", \"enable better building solutions\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 942, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Tech Rep in Building Industry\\\", \\\"defining_skills\\\": [\\\"platform innovation\\\", \\\"digital platform\\\", \\\"wood trusses\\\"], \\\"defining_responsibility_signals\\\": [\\\"transform building industry\\\", \\\"enable better building solutions\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 942, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Engineering Project Managers\", \"defining_skills\": [\"project management\", \"leadership\", \"systems engineering\"], \"defining_responsibility_signals\": [\"define direction\", \"make strategic decisions\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 942, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Engineering Project Managers\\\", \\\"defining_skills\\\": [\\\"project management\\\", \\\"leadership\\\", \\\"systems engineering\\\"], \\\"defining_responsibility_signals\\\": [\\\"define direction\\\", \\\"make strategic decisions\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 942, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Design Engineers\", \"defining_skills\": [\"design\", \"engineering\", \"product development\"], \"defining_responsibility_signals\": [\"architect\", \"lead\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 942, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Design Engineers\\\", \\\"defining_skills\\\": [\\\"design\\\", \\\"engineering\\\", \\\"product development\\\"], \\\"defining_responsibility_signals\\\": [\\\"architect\\\", \\\"lead\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 38
+  },
+  {
+    "community_id": 943,
+    "community_size": 18,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Tech Sales Specialist",
+    "defining_skills": [
+      "sales",
+      "technology",
+      "production print"
+    ],
+    "defining_responsibility_signals": [
+      "seek out new customers",
+      "offer solutions to improve business"
+    ],
+    "confidence": "medium",
+    "level_agreement": 0.667,
+    "access_agreement": 1.0,
+    "label_agreement": 0.333,
+    "overall_agreement": 0.667,
+    "calls_used": 3,
+    "top_title_keywords": "production, systems, specialist, sales, professional, account, executive, engineer, technology, representative, print, senior",
+    "raw_call_outputs": "[{\"community_id\": 943, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Tech Sales Specialist\", \"defining_skills\": [\"sales\", \"technology\", \"production print\"], \"defining_responsibility_signals\": [\"seek out new customers\", \"offer solutions to improve business\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 943, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Tech Sales Specialist\\\", \\\"defining_skills\\\": [\\\"sales\\\", \\\"technology\\\", \\\"production print\\\"], \\\"defining_responsibility_signals\\\": [\\\"seek out new customers\\\", \\\"offer solutions to improve business\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 943, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Commercial Print Sales\", \"defining_skills\": [\"sales\", \"account management\", \"customer relationship\"], \"defining_responsibility_signals\": [\"new customer acquisition\", \"existing customer partnership\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 943, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Commercial Print Sales\\\", \\\"defining_skills\\\": [\\\"sales\\\", \\\"account management\\\", \\\"customer relationship\\\"], \\\"defining_responsibility_signals\\\": [\\\"new customer acquisition\\\", \\\"existing customer partnership\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 943, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Sales & Tech Specialist\", \"defining_skills\": [\"consultative sales\", \"targeted solutions\", \"business improvement\"], \"defining_responsibility_signals\": [\"seek out new customers\", \"partner with existing ones\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 943, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Sales & Tech Specialist\\\", \\\"defining_skills\\\": [\\\"consultative sales\\\", \\\"targeted solutions\\\", \\\"business improvement\\\"], \\\"defining_responsibility_signals\\\": [\\\"seek out new customers\\\", \\\"partner with existing ones\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 38
+  },
+  {
+    "community_id": 944,
+    "community_size": 18,
+    "dominant_experience_level": "junior",
+    "entry_accessibility": "restricted_entry_point",
+    "community_label": "Automotive Detailers",
+    "defining_skills": [
+      "car detailing",
+      "washing",
+      "automotive care"
+    ],
+    "defining_responsibility_signals": [
+      "full-time position",
+      "dedicated person"
+    ],
+    "confidence": "high",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 1.0,
+    "overall_agreement": 1.0,
+    "calls_used": 3,
+    "top_title_keywords": "car, automotive, detailer, washer, airport, driver, park, auto, bus, detroit, metro, canoga",
+    "raw_call_outputs": "[{\"community_id\": 944, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Automotive Detailers\", \"defining_skills\": [\"car detailing\", \"washing\", \"automotive care\"], \"defining_responsibility_signals\": [\"full-time position\", \"dedicated person\"], \"confidence\": \"high\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 944, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Automotive Detailers\\\", \\\"defining_skills\\\": [\\\"car detailing\\\", \\\"washing\\\", \\\"automotive care\\\"], \\\"defining_responsibility_signals\\\": [\\\"full-time position\\\", \\\"dedicated person\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 944, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Automotive Detailers\", \"defining_skills\": [\"car detailing\", \"washing\", \"automotive care\"], \"defining_responsibility_signals\": [\"responsible for cleaning and detailing vehicles\", \"dedicated to maintaining high standards\"], \"confidence\": \"high\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 944, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Automotive Detailers\\\", \\\"defining_skills\\\": [\\\"car detailing\\\", \\\"washing\\\", \\\"automotive care\\\"], \\\"defining_responsibility_signals\\\": [\\\"responsible for cleaning and detailing vehicles\\\", \\\"dedicated to maintaining high standards\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 944, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Automotive Detailers\", \"defining_skills\": [\"car detailing\", \"washing\", \"automotive care\"], \"defining_responsibility_signals\": [\"full-time\", \"dedicated\"], \"confidence\": \"high\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 944, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Automotive Detailers\\\", \\\"defining_skills\\\": [\\\"car detailing\\\", \\\"washing\\\", \\\"automotive care\\\"], \\\"defining_responsibility_signals\\\": [\\\"full-time\\\", \\\"dedicated\\\"], \\\"confidence\\\": \\\"high\\\"}\"}]",
+    "batch_id": 38
+  },
+  {
+    "community_id": 945,
+    "community_size": 18,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Correctional Treatment Specialist",
+    "defining_skills": [
+      "corrections",
+      "treatment",
+      "guidance"
+    ],
+    "defining_responsibility_signals": [
+      "ensure public safety",
+      "prepare individuals for reentry"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.889,
+    "calls_used": 3,
+    "top_title_keywords": "specialist, correctional, treatment, guidance, counselor, training, instructor, sci, program, coordinator, corrections, officer",
+    "raw_call_outputs": "[{\"community_id\": 945, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Correctional Treatment Specialist\", \"defining_skills\": [\"corrections\", \"treatment\", \"guidance\"], \"defining_responsibility_signals\": [\"ensure public safety\", \"prepare individuals for reentry\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 945, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Correctional Treatment Specialist\\\", \\\"defining_skills\\\": [\\\"corrections\\\", \\\"treatment\\\", \\\"guidance\\\"], \\\"defining_responsibility_signals\\\": [\\\"ensure public safety\\\", \\\"prepare individuals for reentry\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 945, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Correctional Program Specialist\", \"defining_skills\": [\"mentoring\", \"coordination\", \"program management\"], \"defining_responsibility_signals\": [\"foster a humane and secure environment\", \"ensure public safety\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 945, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Correctional Program Specialist\\\", \\\"defining_skills\\\": [\\\"mentoring\\\", \\\"coordination\\\", \\\"program management\\\"], \\\"defining_responsibility_signals\\\": [\\\"foster a humane and secure environment\\\", \\\"ensure public safety\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 945, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Correctional Treatment Specialist\", \"defining_skills\": [\"corrections\", \"treatment\", \"guidance\"], \"defining_responsibility_signals\": [\"foster a humane and secure environment\", \"prepare individuals for reentry\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 945, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Correctional Treatment Specialist\\\", \\\"defining_skills\\\": [\\\"corrections\\\", \\\"treatment\\\", \\\"guidance\\\"], \\\"defining_responsibility_signals\\\": [\\\"foster a humane and secure environment\\\", \\\"prepare individuals for reentry\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 38
+  },
+  {
+    "community_id": 946,
+    "community_size": 18,
+    "dominant_experience_level": "senior",
+    "entry_accessibility": "restricted_entry_point",
+    "community_label": "Restaurant General Managers",
+    "defining_skills": [
+      "team leadership",
+      "customer service",
+      "strategic planning"
+    ],
+    "defining_responsibility_signals": [
+      "lead a team",
+      "ensure world class service experience"
+    ],
+    "confidence": "high",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.889,
+    "calls_used": 3,
+    "top_title_keywords": "manager, general, restaurant, team, member, shift, leader, delivery, driver, designate, fleet, car",
+    "raw_call_outputs": "[{\"community_id\": 946, \"dominant_experience_level\": \"senior\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Restaurant General Managers\", \"defining_skills\": [\"team leadership\", \"customer service\", \"strategic planning\"], \"defining_responsibility_signals\": [\"lead a team\", \"ensure world class service experience\"], \"confidence\": \"high\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 946, \\\"dominant_experience_level\\\": \\\"senior\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Restaurant General Managers\\\", \\\"defining_skills\\\": [\\\"team leadership\\\", \\\"customer service\\\", \\\"strategic planning\\\"], \\\"defining_responsibility_signals\\\": [\\\"lead a team\\\", \\\"ensure world class service experience\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 946, \"dominant_experience_level\": \"senior\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Restaurant General Managers\", \"defining_skills\": [\"leadership\", \"team management\", \"profitability focus\"], \"defining_responsibility_signals\": [\"oversee all restaurant functions\", \"ensure restaurant profitability\"], \"confidence\": \"high\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 946, \\\"dominant_experience_level\\\": \\\"senior\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Restaurant General Managers\\\", \\\"defining_skills\\\": [\\\"leadership\\\", \\\"team management\\\", \\\"profitability focus\\\"], \\\"defining_responsibility_signals\\\": [\\\"oversee all restaurant functions\\\", \\\"ensure restaurant profitability\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 946, \"dominant_experience_level\": \"senior\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Restaurant Shift Leaders\", \"defining_skills\": [\"team leadership\", \"customer service\", \"team building\"], \"defining_responsibility_signals\": [\"ensure world-class service experience\", \"put together winning team\"], \"confidence\": \"high\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 946, \\\"dominant_experience_level\\\": \\\"senior\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Restaurant Shift Leaders\\\", \\\"defining_skills\\\": [\\\"team leadership\\\", \\\"customer service\\\", \\\"team building\\\"], \\\"defining_responsibility_signals\\\": [\\\"ensure world-class service experience\\\", \\\"put together winning team\\\"], \\\"confidence\\\": \\\"high\\\"}\"}]",
+    "batch_id": 38
+  },
+  {
+    "community_id": 947,
+    "community_size": 18,
+    "dominant_experience_level": "junior",
+    "entry_accessibility": "clear_entry_point",
+    "community_label": "Sales Representatives",
+    "defining_skills": [
+      "sales",
+      "representative",
+      "technician"
+    ],
+    "defining_responsibility_signals": [
+      "part of a passionate purpose-driven culture",
+      "improving the health and wellbeing of society"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 1.0,
+    "overall_agreement": 1.0,
+    "calls_used": 3,
+    "top_title_keywords": "sales, representative, manager, technician, store, field, sewing",
+    "raw_call_outputs": "[{\"community_id\": 947, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Sales Representatives\", \"defining_skills\": [\"sales\", \"representative\", \"technician\"], \"defining_responsibility_signals\": [\"part of a passionate purpose-driven culture\", \"improving the health and wellbeing of society\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 947, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Sales Representatives\\\", \\\"defining_skills\\\": [\\\"sales\\\", \\\"representative\\\", \\\"technician\\\"], \\\"defining_responsibility_signals\\\": [\\\"part of a passionate purpose-driven culture\\\", \\\"improving the health and wellbeing of society\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 947, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Sales Representatives\", \"defining_skills\": [\"sales\", \"representative\", \"technician\"], \"defining_responsibility_signals\": [\"part of a passionate purpose-driven culture\", \"improving the health and wellbeing of society\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 947, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Sales Representatives\\\", \\\"defining_skills\\\": [\\\"sales\\\", \\\"representative\\\", \\\"technician\\\"], \\\"defining_responsibility_signals\\\": [\\\"part of a passionate purpose-driven culture\\\", \\\"improving the health and wellbeing of society\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 947, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Sales Representatives\", \"defining_skills\": [\"sales\", \"representative\", \"technician\"], \"defining_responsibility_signals\": [\"part of a passionate purpose-driven culture\", \"improving the health and wellbeing of society\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 947, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Sales Representatives\\\", \\\"defining_skills\\\": [\\\"sales\\\", \\\"representative\\\", \\\"technician\\\"], \\\"defining_responsibility_signals\\\": [\\\"part of a passionate purpose-driven culture\\\", \\\"improving the health and wellbeing of society\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 38
+  },
+  {
+    "community_id": 948,
+    "community_size": 18,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "clear_entry_point",
+    "community_label": "Nobel Prize Library Volunteers",
+    "defining_skills": [
+      "librarian",
+      "virtual",
+      "opportunities"
+    ],
+    "defining_responsibility_signals": [
+      "volunteer",
+      "exciting work"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 1.0,
+    "overall_agreement": 1.0,
+    "calls_used": 3,
+    "top_title_keywords": "volunteer, library, nobel, prize, winners, virtual, many, opportunities, scientist, attorney, writer, biologist",
+    "raw_call_outputs": "[{\"community_id\": 948, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Nobel Prize Library Volunteers\", \"defining_skills\": [\"librarian\", \"virtual\", \"opportunities\"], \"defining_responsibility_signals\": [\"volunteer\", \"exciting work\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 948, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Nobel Prize Library Volunteers\\\", \\\"defining_skills\\\": [\\\"librarian\\\", \\\"virtual\\\", \\\"opportunities\\\"], \\\"defining_responsibility_signals\\\": [\\\"volunteer\\\", \\\"exciting work\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 948, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Nobel Prize Library Volunteers\", \"defining_skills\": [\"volunteer\", \"literature\", \"research\"], \"defining_responsibility_signals\": [\"assist\", \"support\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 948, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Nobel Prize Library Volunteers\\\", \\\"defining_skills\\\": [\\\"volunteer\\\", \\\"literature\\\", \\\"research\\\"], \\\"defining_responsibility_signals\\\": [\\\"assist\\\", \\\"support\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 948, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Nobel Prize Library Volunteers\", \"defining_skills\": [\"internet marketing\", \"virtual work\", \"resume building\"], \"defining_responsibility_signals\": [\"volunteer work\", \"exciting opportunities\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 948, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Nobel Prize Library Volunteers\\\", \\\"defining_skills\\\": [\\\"internet marketing\\\", \\\"virtual work\\\", \\\"resume building\\\"], \\\"defining_responsibility_signals\\\": [\\\"volunteer work\\\", \\\"exciting opportunities\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 38
+  },
+  {
+    "community_id": 949,
+    "community_size": 17,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Healthcare Management",
+    "defining_skills": [
+      "clinical care assessment",
+      "team management",
+      "quality assurance"
+    ],
+    "defining_responsibility_signals": [
+      "supervise patient care",
+      "manage interdisciplinary team"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 0.667,
+    "label_agreement": 0.333,
+    "overall_agreement": 0.667,
+    "calls_used": 3,
+    "top_title_keywords": "nurse, practitioner, health, care, assistant, occupational, director, clinical, nursing, physician, coordinator, buffalo",
+    "raw_call_outputs": "[{\"community_id\": 949, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Healthcare Management\", \"defining_skills\": [\"clinical care assessment\", \"team management\", \"quality assurance\"], \"defining_responsibility_signals\": [\"supervise patient care\", \"manage interdisciplinary team\"], \"confidence\": \"high\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 949, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Healthcare Management\\\", \\\"defining_skills\\\": [\\\"clinical care assessment\\\", \\\"team management\\\", \\\"quality assurance\\\"], \\\"defining_responsibility_signals\\\": [\\\"supervise patient care\\\", \\\"manage interdisciplinary team\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 949, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Healthcare Practitioners\", \"defining_skills\": [\"nurse practitioner\", \"health assessments\", \"Medicare advantage members\"], \"defining_responsibility_signals\": [\"perform in-home health assessments\", \"schedule part time or full time\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 949, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Healthcare Practitioners\\\", \\\"defining_skills\\\": [\\\"nurse practitioner\\\", \\\"health assessments\\\", \\\"Medicare advantage members\\\"], \\\"defining_responsibility_signals\\\": [\\\"perform in-home health assessments\\\", \\\"schedule part time or full time\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 949, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Healthcare Coordinators\", \"defining_skills\": [\"clinical auditing\", \"data analysis\", \"strategic planning\"], \"defining_responsibility_signals\": [\"independent tasks\", \"educational opportunities\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 949, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Healthcare Coordinators\\\", \\\"defining_skills\\\": [\\\"clinical auditing\\\", \\\"data analysis\\\", \\\"strategic planning\\\"], \\\"defining_responsibility_signals\\\": [\\\"independent tasks\\\", \\\"educational opportunities\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 38
+  }
+]

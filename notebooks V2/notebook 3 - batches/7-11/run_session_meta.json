@@ -1,0 +1,37 @@
+[
+  {
+    "batch_id": 7,
+    "community_count": 25,
+    "processed_results": 25,
+    "elapsed_seconds": 1896.65,
+    "avg_seconds_per_community": 75.87
+  },
+  {
+    "batch_id": 8,
+    "community_count": 25,
+    "processed_results": 25,
+    "elapsed_seconds": 1898.62,
+    "avg_seconds_per_community": 75.94
+  },
+  {
+    "batch_id": 9,
+    "community_count": 25,
+    "processed_results": 25,
+    "elapsed_seconds": 1930.71,
+    "avg_seconds_per_community": 77.23
+  },
+  {
+    "batch_id": 10,
+    "community_count": 25,
+    "processed_results": 25,
+    "elapsed_seconds": 1946.43,
+    "avg_seconds_per_community": 77.86
+  },
+  {
+    "batch_id": 11,
+    "community_count": 25,
+    "processed_results": 25,
+    "elapsed_seconds": 1924.34,
+    "avg_seconds_per_community": 76.97
+  }
+]
