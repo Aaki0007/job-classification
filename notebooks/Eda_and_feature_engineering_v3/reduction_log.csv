@@ -1,8 +1,0 @@
-Step,Rows_Remaining
-Raw dataset after column selection,123849
-After dropping missing title/description,123842
-After removing empty title/description,123842
-After removing duplicate title+description,110848
-After description length filter (100-1200),104059
-After keeping non-null experience labels,78363
-After mapping to junior/mid/senior,78363
