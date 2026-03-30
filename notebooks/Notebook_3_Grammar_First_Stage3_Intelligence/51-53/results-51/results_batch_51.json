@@ -1,0 +1,627 @@
+[
+  {
+    "community_id": 1250,
+    "community_size": 15,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Content Marketing",
+    "defining_skills": [
+      "content creation",
+      "marketing strategy",
+      "copywriting"
+    ],
+    "defining_responsibility_signals": [
+      "create various types of creative content",
+      "organize and maintain created content"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.889,
+    "calls_used": 3,
+    "top_title_keywords": "content, marketing, senior, writer, lead, copywriter, manager, creator, director, creative, services, engineer",
+    "raw_call_outputs": "[{\"community_id\": 1250, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Marketing Content Creators\", \"defining_skills\": [\"content creation\", \"sales enablement\", \"creative content\"], \"defining_responsibility_signals\": [\"create various types of creative content\", \"organize and maintain created content\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1250, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Marketing Content Creators\\\", \\\"defining_skills\\\": [\\\"content creation\\\", \\\"sales enablement\\\", \\\"creative content\\\"], \\\"defining_responsibility_signals\\\": [\\\"create various types of creative content\\\", \\\"organize and maintain created content\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1250, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Content Marketing\", \"defining_skills\": [\"content creation\", \"marketing strategy\", \"copywriting\"], \"defining_responsibility_signals\": [\"lead projects\", \"collaborate with team\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1250, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Content Marketing\\\", \\\"defining_skills\\\": [\\\"content creation\\\", \\\"marketing strategy\\\", \\\"copywriting\\\"], \\\"defining_responsibility_signals\\\": [\\\"lead projects\\\", \\\"collaborate with team\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1250, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Content Marketing\", \"defining_skills\": [\"content creation\", \"marketing strategy\", \"copywriting\"], \"defining_responsibility_signals\": [\"lead\", \"manage\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1250, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Content Marketing\\\", \\\"defining_skills\\\": [\\\"content creation\\\", \\\"marketing strategy\\\", \\\"copywriting\\\"], \\\"defining_responsibility_signals\\\": [\\\"lead\\\", \\\"manage\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 51
+  },
+  {
+    "community_id": 1251,
+    "community_size": 15,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "System Test Engineer",
+    "defining_skills": [
+      "system testing",
+      "factory test",
+      "diagnostics development"
+    ],
+    "defining_responsibility_signals": [
+      "experience in factory test",
+      "knowledge of motherboard architecture"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.333,
+    "overall_agreement": 0.778,
+    "calls_used": 3,
+    "top_title_keywords": "test, engineer, tester, manufacturing, system, team, lead, mobile, testing, platform, uat, principal",
+    "raw_call_outputs": "[{\"community_id\": 1251, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"System Test Engineer\", \"defining_skills\": [\"system testing\", \"factory test\", \"diagnostics development\"], \"defining_responsibility_signals\": [\"experience in factory test\", \"knowledge of motherboard architecture\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1251, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"System Test Engineer\\\", \\\"defining_skills\\\": [\\\"system testing\\\", \\\"factory test\\\", \\\"diagnostics development\\\"], \\\"defining_responsibility_signals\\\": [\\\"experience in factory test\\\", \\\"knowledge of motherboard architecture\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1251, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"UAT Testers\", \"defining_skills\": [\"test case development\", \"ALM\", \"mainframe testing\"], \"defining_responsibility_signals\": [\"assist project team\", \"execute test cases\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1251, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"UAT Testers\\\", \\\"defining_skills\\\": [\\\"test case development\\\", \\\"ALM\\\", \\\"mainframe testing\\\"], \\\"defining_responsibility_signals\\\": [\\\"assist project team\\\", \\\"execute test cases\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1251, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Manufacturing Test Engineers\", \"defining_skills\": [\"test\", \"engineer\", \"manufacturing\"], \"defining_responsibility_signals\": [\"key qualifications\", \"contract position\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1251, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Manufacturing Test Engineers\\\", \\\"defining_skills\\\": [\\\"test\\\", \\\"engineer\\\", \\\"manufacturing\\\"], \\\"defining_responsibility_signals\\\": [\\\"key qualifications\\\", \\\"contract position\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 51
+  },
+  {
+    "community_id": 1252,
+    "community_size": 15,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Multifamily Asset Management",
+    "defining_skills": [
+      "asset management",
+      "real estate",
+      "affordable housing"
+    ],
+    "defining_responsibility_signals": [
+      "define direction",
+      "make strategic decisions"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.333,
+    "overall_agreement": 0.778,
+    "calls_used": 3,
+    "top_title_keywords": "asset, management, real, estate, manager, multifamily, analyst, property, director, affordable, lead, americas",
+    "raw_call_outputs": "[{\"community_id\": 1252, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Multifamily Asset Management\", \"defining_skills\": [\"asset management\", \"real estate\", \"affordable housing\"], \"defining_responsibility_signals\": [\"define direction\", \"make strategic decisions\"], \"confidence\": \"high\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1252, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Multifamily Asset Management\\\", \\\"defining_skills\\\": [\\\"asset management\\\", \\\"real estate\\\", \\\"affordable housing\\\"], \\\"defining_responsibility_signals\\\": [\\\"define direction\\\", \\\"make strategic decisions\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 1252, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Real Estate Management\", \"defining_skills\": [\"asset management\", \"investment strategy\", \"property management\"], \"defining_responsibility_signals\": [\"sourcing and analyzing investments\", \"strategizing long-term investments\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1252, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Real Estate Management\\\", \\\"defining_skills\\\": [\\\"asset management\\\", \\\"investment strategy\\\", \\\"property management\\\"], \\\"defining_responsibility_signals\\\": [\\\"sourcing and analyzing investments\\\", \\\"strategizing long-term investments\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1252, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Real Estate Analysts\", \"defining_skills\": [\"analyst\", \"investment\", \"portfolio management\"], \"defining_responsibility_signals\": [\"investment analysis\", \"portfolio management\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1252, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Real Estate Analysts\\\", \\\"defining_skills\\\": [\\\"analyst\\\", \\\"investment\\\", \\\"portfolio management\\\"], \\\"defining_responsibility_signals\\\": [\\\"investment analysis\\\", \\\"portfolio management\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 51
+  },
+  {
+    "community_id": 1253,
+    "community_size": 15,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Operations Coordinators",
+    "defining_skills": [
+      "coordination",
+      "customer service",
+      "operations management"
+    ],
+    "defining_responsibility_signals": [
+      "define direction",
+      "make strategic decisions"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.333,
+    "overall_agreement": 0.778,
+    "calls_used": 3,
+    "top_title_keywords": "coordinator, service, customer, representative, operations, community, manager, member, services, specialist, advisor, senior",
+    "raw_call_outputs": "[{\"community_id\": 1253, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Operations Coordinators\", \"defining_skills\": [\"coordination\", \"customer service\", \"operations management\"], \"defining_responsibility_signals\": [\"define direction\", \"make strategic decisions\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1253, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Operations Coordinators\\\", \\\"defining_skills\\\": [\\\"coordination\\\", \\\"customer service\\\", \\\"operations management\\\"], \\\"defining_responsibility_signals\\\": [\\\"define direction\\\", \\\"make strategic decisions\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1253, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Community Operations Manager\", \"defining_skills\": [\"HOA leadership\", \"administrative projects\", \"relationship building\"], \"defining_responsibility_signals\": [\"manage communities\", \"build relationships\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1253, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Community Operations Manager\\\", \\\"defining_skills\\\": [\\\"HOA leadership\\\", \\\"administrative projects\\\", \\\"relationship building\\\"], \\\"defining_responsibility_signals\\\": [\\\"manage communities\\\", \\\"build relationships\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1253, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Member Service Advisor\", \"defining_skills\": [\"member transactions\", \"digital options\", \"product awareness\"], \"defining_responsibility_signals\": [\"provide superior member experience\", \"process accurate transactions\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1253, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Member Service Advisor\\\", \\\"defining_skills\\\": [\\\"member transactions\\\", \\\"digital options\\\", \\\"product awareness\\\"], \\\"defining_responsibility_signals\\\": [\\\"provide superior member experience\\\", \\\"process accurate transactions\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 51
+  },
+  {
+    "community_id": 1254,
+    "community_size": 15,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Treasury & Finance",
+    "defining_skills": [
+      "treasury",
+      "cash management",
+      "finance tools"
+    ],
+    "defining_responsibility_signals": [
+      "support treasury function",
+      "monitor cash position"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.333,
+    "overall_agreement": 0.778,
+    "calls_used": 3,
+    "top_title_keywords": "treasury, analyst, manager, management, director, product, 2552, principal, consultant, domain, finance, accounting",
+    "raw_call_outputs": "[{\"community_id\": 1254, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Treasury & Finance\", \"defining_skills\": [\"treasury\", \"cash management\", \"finance tools\"], \"defining_responsibility_signals\": [\"support treasury function\", \"monitor cash position\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1254, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Treasury & Finance\\\", \\\"defining_skills\\\": [\\\"treasury\\\", \\\"cash management\\\", \\\"finance tools\\\"], \\\"defining_responsibility_signals\\\": [\\\"support treasury function\\\", \\\"monitor cash position\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1254, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Treasury Analysts\", \"defining_skills\": [\"finance\", \"accounting\", \"analyst tools\"], \"defining_responsibility_signals\": [\"analyze financial data\", \"support management\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1254, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Treasury Analysts\\\", \\\"defining_skills\\\": [\\\"finance\\\", \\\"accounting\\\", \\\"analyst tools\\\"], \\\"defining_responsibility_signals\\\": [\\\"analyze financial data\\\", \\\"support management\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1254, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Treasury Consultants\", \"defining_skills\": [\"domain consulting\", \"industry experience\", \"bachelor's degree\"], \"defining_responsibility_signals\": [\"principal consultant\", \"on-site required\"], \"confidence\": \"high\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1254, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Treasury Consultants\\\", \\\"defining_skills\\\": [\\\"domain consulting\\\", \\\"industry experience\\\", \\\"bachelor's degree\\\"], \\\"defining_responsibility_signals\\\": [\\\"principal consultant\\\", \\\"on-site required\\\"], \\\"confidence\\\": \\\"high\\\"}\"}]",
+    "batch_id": 51
+  },
+  {
+    "community_id": 1255,
+    "community_size": 15,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Sterile Processing Technicians",
+    "defining_skills": [
+      "sterile processing",
+      "certification",
+      "equipment decontamination"
+    ],
+    "defining_responsibility_signals": [
+      "supervise employees",
+      "monitor quality"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 1.0,
+    "overall_agreement": 1.0,
+    "calls_used": 3,
+    "top_title_keywords": "sterile, processing, technician, tech, certified, sterilization, now, hiring, technicians, mercy, springfield, site",
+    "raw_call_outputs": "[{\"community_id\": 1255, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Sterile Processing Technicians\", \"defining_skills\": [\"sterile processing\", \"certification\", \"equipment decontamination\"], \"defining_responsibility_signals\": [\"supervise employees\", \"monitor quality\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1255, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Sterile Processing Technicians\\\", \\\"defining_skills\\\": [\\\"sterile processing\\\", \\\"certification\\\", \\\"equipment decontamination\\\"], \\\"defining_responsibility_signals\\\": [\\\"supervise employees\\\", \\\"monitor quality\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1255, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Sterile Processing Technicians\", \"defining_skills\": [\"sterile processing\", \"certification\", \"techniques\"], \"defining_responsibility_signals\": [\"join our team\", \"perform outpatient surgical procedures\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1255, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Sterile Processing Technicians\\\", \\\"defining_skills\\\": [\\\"sterile processing\\\", \\\"certification\\\", \\\"techniques\\\"], \\\"defining_responsibility_signals\\\": [\\\"join our team\\\", \\\"perform outpatient surgical procedures\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1255, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Sterile Processing Technicians\", \"defining_skills\": [\"sterilization\", \"decontamination\", \"assembly\"], \"defining_responsibility_signals\": [\"execute established procedures\", \"maintain efficient flow\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1255, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Sterile Processing Technicians\\\", \\\"defining_skills\\\": [\\\"sterilization\\\", \\\"decontamination\\\", \\\"assembly\\\"], \\\"defining_responsibility_signals\\\": [\\\"execute established procedures\\\", \\\"maintain efficient flow\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 51
+  },
+  {
+    "community_id": 1256,
+    "community_size": 15,
+    "dominant_experience_level": "junior",
+    "entry_accessibility": "restricted_entry_point",
+    "community_label": "Diesel Mechanic Technician",
+    "defining_skills": [
+      "diesel",
+      "mechanic",
+      "technician"
+    ],
+    "defining_responsibility_signals": [
+      "shift work",
+      "fleet maintenance"
+    ],
+    "confidence": "high",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.889,
+    "calls_used": 3,
+    "top_title_keywords": "diesel, mechanic, technician, shift, fleet, heavy, duty, sunday, thursday, 2nd, mobile, class",
+    "raw_call_outputs": "[{\"community_id\": 1256, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Diesel Technician\", \"defining_skills\": [\"diesel\", \"mechanic\", \"technician\"], \"defining_responsibility_signals\": [\"shift work\", \"fleet maintenance\"], \"confidence\": \"high\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1256, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Diesel Technician\\\", \\\"defining_skills\\\": [\\\"diesel\\\", \\\"mechanic\\\", \\\"technician\\\"], \\\"defining_responsibility_signals\\\": [\\\"shift work\\\", \\\"fleet maintenance\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 1256, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Diesel Mechanic Technician\", \"defining_skills\": [\"Diesel engine repair\", \"Heavy equipment maintenance\", \"Fleet management\"], \"defining_responsibility_signals\": [\"Execute assigned tasks\", \"Work under supervision\"], \"confidence\": \"high\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1256, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Diesel Mechanic Technician\\\", \\\"defining_skills\\\": [\\\"Diesel engine repair\\\", \\\"Heavy equipment maintenance\\\", \\\"Fleet management\\\"], \\\"defining_responsibility_signals\\\": [\\\"Execute assigned tasks\\\", \\\"Work under supervision\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 1256, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Diesel Mechanic Technician\", \"defining_skills\": [\"diesel engine repair\", \"heavy duty vehicle maintenance\", \"fleet management\"], \"defining_responsibility_signals\": [\"perform routine maintenance\", \"diagnose and repair issues\"], \"confidence\": \"high\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1256, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Diesel Mechanic Technician\\\", \\\"defining_skills\\\": [\\\"diesel engine repair\\\", \\\"heavy duty vehicle maintenance\\\", \\\"fleet management\\\"], \\\"defining_responsibility_signals\\\": [\\\"perform routine maintenance\\\", \\\"diagnose and repair issues\\\"], \\\"confidence\\\": \\\"high\\\"}\"}]",
+    "batch_id": 51
+  },
+  {
+    "community_id": 1257,
+    "community_size": 15,
+    "dominant_experience_level": "junior",
+    "entry_accessibility": "restricted_entry_point",
+    "community_label": "WVUH Scribe",
+    "defining_skills": [
+      "scheduling",
+      "scribing",
+      "hospital systems"
+    ],
+    "defining_responsibility_signals": [
+      "unlicensed member of the team",
+      "responsible for assisting"
+    ],
+    "confidence": "high",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.889,
+    "calls_used": 3,
+    "top_title_keywords": "scheduler, wvuh, 86964, centralized, aca, scribes, scribe, family, medicine, resident, children, hospital",
+    "raw_call_outputs": "[{\"community_id\": 1257, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"WVUH Scribe\", \"defining_skills\": [\"scheduling\", \"scribing\", \"hospital systems\"], \"defining_responsibility_signals\": [\"unlicensed member of the team\", \"responsible for assisting\"], \"confidence\": \"high\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1257, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"WVUH Scribe\\\", \\\"defining_skills\\\": [\\\"scheduling\\\", \\\"scribing\\\", \\\"hospital systems\\\"], \\\"defining_responsibility_signals\\\": [\\\"unlicensed member of the team\\\", \\\"responsible for assisting\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 1257, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"WVUH Scribe\", \"defining_skills\": [\"scheduling\", \"centralized systems\", \"aca compliance\"], \"defining_responsibility_signals\": [\"unlicensed team member\", \"assist resident physicians\"], \"confidence\": \"high\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1257, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"WVUH Scribe\\\", \\\"defining_skills\\\": [\\\"scheduling\\\", \\\"centralized systems\\\", \\\"aca compliance\\\"], \\\"defining_responsibility_signals\\\": [\\\"unlicensed team member\\\", \\\"assist resident physicians\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 1257, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Hospital Scheduler\", \"defining_skills\": [\"scheduling\", \"centralized\", \"aca\"], \"defining_responsibility_signals\": [\"schedule\", \"cancel\"], \"confidence\": \"high\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1257, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Hospital Scheduler\\\", \\\"defining_skills\\\": [\\\"scheduling\\\", \\\"centralized\\\", \\\"aca\\\"], \\\"defining_responsibility_signals\\\": [\\\"schedule\\\", \\\"cancel\\\"], \\\"confidence\\\": \\\"high\\\"}\"}]",
+    "batch_id": 51
+  },
+  {
+    "community_id": 1258,
+    "community_size": 15,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Member Service Representative",
+    "defining_skills": [
+      "depository accounts",
+      "lending products",
+      "credit/debit cards"
+    ],
+    "defining_responsibility_signals": [
+      "provide members and prospective members",
+      "perform"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.889,
+    "calls_used": 3,
+    "top_title_keywords": "member, service, representative, assistant, branch, manager, account, executive, financial, advisor, gambrills, research",
+    "raw_call_outputs": "[{\"community_id\": 1258, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Member Service Representative\", \"defining_skills\": [\"depository accounts\", \"lending products\", \"credit/debit cards\"], \"defining_responsibility_signals\": [\"provide members and prospective members\", \"perform\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1258, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Member Service Representative\\\", \\\"defining_skills\\\": [\\\"depository accounts\\\", \\\"lending products\\\", \\\"credit/debit cards\\\"], \\\"defining_responsibility_signals\\\": [\\\"provide members and prospective members\\\", \\\"perform\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1258, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Member Service Representative\", \"defining_skills\": [\"depository accounts\", \"lending products\", \"credit/debit cards\"], \"defining_responsibility_signals\": [\"provide members and prospective members\", \"perform moderate\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1258, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Member Service Representative\\\", \\\"defining_skills\\\": [\\\"depository accounts\\\", \\\"lending products\\\", \\\"credit/debit cards\\\"], \\\"defining_responsibility_signals\\\": [\\\"provide members and prospective members\\\", \\\"perform moderate\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1258, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Member Service Representatives\", \"defining_skills\": [\"product knowledge\", \"customer service\", \"sales\"], \"defining_responsibility_signals\": [\"provide members with products and services\", \"perform mode\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1258, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Member Service Representatives\\\", \\\"defining_skills\\\": [\\\"product knowledge\\\", \\\"customer service\\\", \\\"sales\\\"], \\\"defining_responsibility_signals\\\": [\\\"provide members with products and services\\\", \\\"perform mode\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 51
+  },
+  {
+    "community_id": 1259,
+    "community_size": 15,
+    "dominant_experience_level": "junior",
+    "entry_accessibility": "clear_entry_point",
+    "community_label": "Operations Trainee",
+    "defining_skills": [
+      "operations management",
+      "transportation",
+      "teamwork"
+    ],
+    "defining_responsibility_signals": [
+      "trainee",
+      "dynamic team"
+    ],
+    "confidence": "high",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.333,
+    "overall_agreement": 0.778,
+    "calls_used": 3,
+    "top_title_keywords": "trainee, operations, manager, management, transportation, rental, sales, vehicle, specialist, logistics, dedicated, carlsbad",
+    "raw_call_outputs": "[{\"community_id\": 1259, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Operations Trainee\", \"defining_skills\": [\"operations management\", \"teamwork\", \"basic software\"], \"defining_responsibility_signals\": [\"trainee\", \"dynamic team\"], \"confidence\": \"high\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1259, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Operations Trainee\\\", \\\"defining_skills\\\": [\\\"operations management\\\", \\\"teamwork\\\", \\\"basic software\\\"], \\\"defining_responsibility_signals\\\": [\\\"trainee\\\", \\\"dynamic team\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 1259, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Logistics Trainee\", \"defining_skills\": [\"operations\", \"transportation\", \"management\"], \"defining_responsibility_signals\": [\"dedicated\", \"move career forward\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1259, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Logistics Trainee\\\", \\\"defining_skills\\\": [\\\"operations\\\", \\\"transportation\\\", \\\"management\\\"], \\\"defining_responsibility_signals\\\": [\\\"dedicated\\\", \\\"move career forward\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1259, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Operations Management Trainee\", \"defining_skills\": [\"operations management\", \"logistics\", \"transportation\"], \"defining_responsibility_signals\": [\"entry-level\", \"on-the-job training\"], \"confidence\": \"high\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1259, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Operations Management Trainee\\\", \\\"defining_skills\\\": [\\\"operations management\\\", \\\"logistics\\\", \\\"transportation\\\"], \\\"defining_responsibility_signals\\\": [\\\"entry-level\\\", \\\"on-the-job training\\\"], \\\"confidence\\\": \\\"high\\\"}\"}]",
+    "batch_id": 51
+  },
+  {
+    "community_id": 1260,
+    "community_size": 15,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Corporate Development",
+    "defining_skills": [
+      "corporate development",
+      "investment",
+      "finance"
+    ],
+    "defining_responsibility_signals": [
+      "high visibility to senior leadership",
+      "work across a variety of functions"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.889,
+    "calls_used": 3,
+    "top_title_keywords": "corporate, development, senior, investment, private, credit, growth, equity, finance, investor, relations, vice",
+    "raw_call_outputs": "[{\"community_id\": 1260, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Corporate Development\", \"defining_skills\": [\"corporate development\", \"investment\", \"finance\"], \"defining_responsibility_signals\": [\"high visibility to senior leadership\", \"work across a variety of functions\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1260, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Corporate Development\\\", \\\"defining_skills\\\": [\\\"corporate development\\\", \\\"investment\\\", \\\"finance\\\"], \\\"defining_responsibility_signals\\\": [\\\"high visibility to senior leadership\\\", \\\"work across a variety of functions\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1260, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Corporate Development\", \"defining_skills\": [\"corporate development\", \"investment\", \"finance\"], \"defining_responsibility_signals\": [\"high visibility to senior leadership\", \"work across a variety of functions\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1260, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Corporate Development\\\", \\\"defining_skills\\\": [\\\"corporate development\\\", \\\"investment\\\", \\\"finance\\\"], \\\"defining_responsibility_signals\\\": [\\\"high visibility to senior leadership\\\", \\\"work across a variety of functions\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1260, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Private Credit & Growth Equity\", \"defining_skills\": [\"investment analysis\", \"deal sourcing\", \"due diligence\"], \"defining_responsibility_signals\": [\"research and deal execution\", \"work alongside CIO\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1260, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Private Credit & Growth Equity\\\", \\\"defining_skills\\\": [\\\"investment analysis\\\", \\\"deal sourcing\\\", \\\"due diligence\\\"], \\\"defining_responsibility_signals\\\": [\\\"research and deal execution\\\", \\\"work alongside CIO\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 51
+  },
+  {
+    "community_id": 1261,
+    "community_size": 15,
+    "dominant_experience_level": "senior",
+    "entry_accessibility": "restricted_entry_point",
+    "community_label": "Creative Agency Art Directors",
+    "defining_skills": [
+      "art direction",
+      "creative strategy",
+      "campaign management"
+    ],
+    "defining_responsibility_signals": [
+      "lead creative teams",
+      "define creative direction"
+    ],
+    "confidence": "high",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.333,
+    "overall_agreement": 0.778,
+    "calls_used": 3,
+    "top_title_keywords": "director, art, photo, creative, copywriter, packaging, studio, producer, lifestyle, collection, senior, buyer",
+    "raw_call_outputs": "[{\"community_id\": 1261, \"dominant_experience_level\": \"senior\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Creative Agency Art Directors\", \"defining_skills\": [\"art direction\", \"creative strategy\", \"campaign management\"], \"defining_responsibility_signals\": [\"define creative direction\", \"lead creative teams\"], \"confidence\": \"high\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1261, \\\"dominant_experience_level\\\": \\\"senior\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Creative Agency Art Directors\\\", \\\"defining_skills\\\": [\\\"art direction\\\", \\\"creative strategy\\\", \\\"campaign management\\\"], \\\"defining_responsibility_signals\\\": [\\\"define creative direction\\\", \\\"lead creative teams\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 1261, \"dominant_experience_level\": \"senior\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Creative Art Direction\", \"defining_skills\": [\"art direction\", \"creative strategy\", \"marketing production\"], \"defining_responsibility_signals\": [\"lead creative teams\", \"develop marketing campaigns\"], \"confidence\": \"high\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1261, \\\"dominant_experience_level\\\": \\\"senior\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Creative Art Direction\\\", \\\"defining_skills\\\": [\\\"art direction\\\", \\\"creative strategy\\\", \\\"marketing production\\\"], \\\"defining_responsibility_signals\\\": [\\\"lead creative teams\\\", \\\"develop marketing campaigns\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 1261, \"dominant_experience_level\": \"senior\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Senior Art Buyer\", \"defining_skills\": [\"image research\", \"vendor management\", \"copyright management\"], \"defining_responsibility_signals\": [\"coordinate\", \"negotiate\"], \"confidence\": \"high\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1261, \\\"dominant_experience_level\\\": \\\"senior\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Senior Art Buyer\\\", \\\"defining_skills\\\": [\\\"image research\\\", \\\"vendor management\\\", \\\"copyright management\\\"], \\\"defining_responsibility_signals\\\": [\\\"coordinate\\\", \\\"negotiate\\\"], \\\"confidence\\\": \\\"high\\\"}\"}]",
+    "batch_id": 51
+  },
+  {
+    "community_id": 1262,
+    "community_size": 15,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Clean Energy Integration Test Engineer",
+    "defining_skills": [
+      "integration testing",
+      "clean energy",
+      "power systems"
+    ],
+    "defining_responsibility_signals": [
+      "solve challenging problems",
+      "unlock r"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.333,
+    "overall_agreement": 0.778,
+    "calls_used": 3,
+    "top_title_keywords": "engineer, test, electrical, senior, integration, iii, technician, principal, field, clean, energy, product",
+    "raw_call_outputs": "[{\"community_id\": 1262, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Clean Energy Integration Test Engineer\", \"defining_skills\": [\"integration testing\", \"clean energy\", \"power systems\"], \"defining_responsibility_signals\": [\"solve challenging problems\", \"unlock r\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1262, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Clean Energy Integration Test Engineer\\\", \\\"defining_skills\\\": [\\\"integration testing\\\", \\\"clean energy\\\", \\\"power systems\\\"], \\\"defining_responsibility_signals\\\": [\\\"solve challenging problems\\\", \\\"unlock r\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1262, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Energy Systems Test Engineers\", \"defining_skills\": [\"test engineer\", \"energy systems\", \"software-enabled energy storage solutions\"], \"defining_responsibility_signals\": [\"build\", \"pave talent\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1262, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Energy Systems Test Engineers\\\", \\\"defining_skills\\\": [\\\"test engineer\\\", \\\"energy systems\\\", \\\"software-enabled energy storage solutions\\\"], \\\"defining_responsibility_signals\\\": [\\\"build\\\", \\\"pave talent\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1262, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Naval Electronics Test Engineers\", \"defining_skills\": [\"test campaigns\", \"coordinate\", \"design\"], \"defining_responsibility_signals\": [\"organize and coordinate\", \"lead\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1262, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Naval Electronics Test Engineers\\\", \\\"defining_skills\\\": [\\\"test campaigns\\\", \\\"coordinate\\\", \\\"design\\\"], \\\"defining_responsibility_signals\\\": [\\\"organize and coordinate\\\", \\\"lead\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 51
+  },
+  {
+    "community_id": 1263,
+    "community_size": 15,
+    "dominant_experience_level": "junior",
+    "entry_accessibility": "clear_entry_point",
+    "community_label": "Medical Assistant - Cardiology",
+    "defining_skills": [
+      "LPN",
+      "medical assistant",
+      "cardiovascular care"
+    ],
+    "defining_responsibility_signals": [
+      "provide exceptional care",
+      "work days"
+    ],
+    "confidence": "high",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.333,
+    "overall_agreement": 0.778,
+    "calls_used": 3,
+    "top_title_keywords": "nights, cardiology, care, days, tech, icu, aprn, patient, services, medical, assistant, clinic",
+    "raw_call_outputs": "[{\"community_id\": 1263, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Medical Assistant - Cardiology\", \"defining_skills\": [\"medical assistant\", \"LPN\", \"cardiovascular care\"], \"defining_responsibility_signals\": [\"provide exceptional care\", \"work days\"], \"confidence\": \"high\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1263, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Medical Assistant - Cardiology\\\", \\\"defining_skills\\\": [\\\"medical assistant\\\", \\\"LPN\\\", \\\"cardiovascular care\\\"], \\\"defining_responsibility_signals\\\": [\\\"provide exceptional care\\\", \\\"work days\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 1263, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Cardiology LPN\", \"defining_skills\": [\"LPN\", \"Cardiology\", \"Patient Care\"], \"defining_responsibility_signals\": [\"Provide Exceptional Care\", \"Work Days\"], \"confidence\": \"high\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1263, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Cardiology LPN\\\", \\\"defining_skills\\\": [\\\"LPN\\\", \\\"Cardiology\\\", \\\"Patient Care\\\"], \\\"defining_responsibility_signals\\\": [\\\"Provide Exceptional Care\\\", \\\"Work Days\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 1263, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Cardiothoracic ICU Nurse\", \"defining_skills\": [\"ICU care\", \"Cardiothoracic expertise\", \"Patient monitoring\"], \"defining_responsibility_signals\": [\"Provide exceptional care\", \"Work nights\"], \"confidence\": \"high\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1263, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Cardiothoracic ICU Nurse\\\", \\\"defining_skills\\\": [\\\"ICU care\\\", \\\"Cardiothoracic expertise\\\", \\\"Patient monitoring\\\"], \\\"defining_responsibility_signals\\\": [\\\"Provide exceptional care\\\", \\\"Work nights\\\"], \\\"confidence\\\": \\\"high\\\"}\"}]",
+    "batch_id": 51
+  },
+  {
+    "community_id": 1264,
+    "community_size": 15,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Automotive Technician",
+    "defining_skills": [
+      "automotive",
+      "mechanic",
+      "technician"
+    ],
+    "defining_responsibility_signals": [
+      "maintain",
+      "implement"
+    ],
+    "confidence": "medium",
+    "level_agreement": 0.667,
+    "access_agreement": 0.667,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.667,
+    "calls_used": 3,
+    "top_title_keywords": "technician, automotive, mechanic, entry, mid, engineer, topeka, bellevue, detail, powerbi, developer, research",
+    "raw_call_outputs": "[{\"community_id\": 1264, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Automotive Technicians\", \"defining_skills\": [\"automotive\", \"mechanic\", \"powerbi\"], \"defining_responsibility_signals\": [\"maintain\", \"implement\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1264, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Automotive Technicians\\\", \\\"defining_skills\\\": [\\\"automotive\\\", \\\"mechanic\\\", \\\"powerbi\\\"], \\\"defining_responsibility_signals\\\": [\\\"maintain\\\", \\\"implement\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1264, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Automotive Technician\", \"defining_skills\": [\"mechanic\", \"automotive\", \"technician\"], \"defining_responsibility_signals\": [\"entry level\", \"immediately hiring\"], \"confidence\": \"high\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1264, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Automotive Technician\\\", \\\"defining_skills\\\": [\\\"mechanic\\\", \\\"automotive\\\", \\\"technician\\\"], \\\"defining_responsibility_signals\\\": [\\\"entry level\\\", \\\"immediately hiring\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 1264, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Automotive Technician\", \"defining_skills\": [\"mechanic\", \"technician\", \"automotive\"], \"defining_responsibility_signals\": [\"mid-level\", \"automotive mechanic technician ii\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1264, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Automotive Technician\\\", \\\"defining_skills\\\": [\\\"mechanic\\\", \\\"technician\\\", \\\"automotive\\\"], \\\"defining_responsibility_signals\\\": [\\\"mid-level\\\", \\\"automotive mechanic technician ii\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 51
+  },
+  {
+    "community_id": 1265,
+    "community_size": 15,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Benefits Management",
+    "defining_skills": [
+      "benefits program design",
+      "implementation",
+      "management"
+    ],
+    "defining_responsibility_signals": [
+      "design and implement benefits programs",
+      "manage benefits programs"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.889,
+    "calls_used": 3,
+    "top_title_keywords": "benefits, manager, analyst, benefit, coordinator, program, employee, administration, wellness, client, compensation, amendment",
+    "raw_call_outputs": "[{\"community_id\": 1265, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Benefits Management\", \"defining_skills\": [\"benefits program design\", \"implementation\", \"management\"], \"defining_responsibility_signals\": [\"design and implement benefits programs\", \"manage benefits programs\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1265, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Benefits Management\\\", \\\"defining_skills\\\": [\\\"benefits program design\\\", \\\"implementation\\\", \\\"management\\\"], \\\"defining_responsibility_signals\\\": [\\\"design and implement benefits programs\\\", \\\"manage benefits programs\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1265, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Benefits Management\", \"defining_skills\": [\"benefit program design\", \"employee wellness\", \"compensation planning\"], \"defining_responsibility_signals\": [\"leadership\", \"direction and prioritization\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1265, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Benefits Management\\\", \\\"defining_skills\\\": [\\\"benefit program design\\\", \\\"employee wellness\\\", \\\"compensation planning\\\"], \\\"defining_responsibility_signals\\\": [\\\"leadership\\\", \\\"direction and prioritization\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1265, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Benefits Analysts\", \"defining_skills\": [\"benefits\", \"analyst\", \"program\"], \"defining_responsibility_signals\": [\"coordinate\", \"implement\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1265, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Benefits Analysts\\\", \\\"defining_skills\\\": [\\\"benefits\\\", \\\"analyst\\\", \\\"program\\\"], \\\"defining_responsibility_signals\\\": [\\\"coordinate\\\", \\\"implement\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 51
+  },
+  {
+    "community_id": 1266,
+    "community_size": 15,
+    "dominant_experience_level": "senior",
+    "entry_accessibility": "restricted_entry_point",
+    "community_label": "Finance & Investment",
+    "defining_skills": [
+      "capital markets",
+      "finance",
+      "investment"
+    ],
+    "defining_responsibility_signals": [
+      "portfolio management",
+      "project development"
+    ],
+    "confidence": "high",
+    "level_agreement": 0.667,
+    "access_agreement": 0.667,
+    "label_agreement": 0.333,
+    "overall_agreement": 0.556,
+    "calls_used": 3,
+    "top_title_keywords": "director, analyst, consultant, finance, manager, investment, capital, markets, operations, project, senior, portfolio",
+    "raw_call_outputs": "[{\"community_id\": 1266, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Finance & Investment\", \"defining_skills\": [\"finance\", \"investment\", \"capital markets\"], \"defining_responsibility_signals\": [\"portfolio management\", \"project development\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1266, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Finance & Investment\\\", \\\"defining_skills\\\": [\\\"finance\\\", \\\"investment\\\", \\\"capital markets\\\"], \\\"defining_responsibility_signals\\\": [\\\"portfolio management\\\", \\\"project development\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1266, \"dominant_experience_level\": \"senior\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Investment Banking\", \"defining_skills\": [\"sustainable energy transactions\", \"transformative deals\", \"global investment banking\"], \"defining_responsibility_signals\": [\"spearhead\", \"drive force\"], \"confidence\": \"high\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1266, \\\"dominant_experience_level\\\": \\\"senior\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Investment Banking\\\", \\\"defining_skills\\\": [\\\"sustainable energy transactions\\\", \\\"transformative deals\\\", \\\"global investment banking\\\"], \\\"defining_responsibility_signals\\\": [\\\"spearhead\\\", \\\"drive force\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 1266, \"dominant_experience_level\": \"senior\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Oil & Gas Capital Markets\", \"defining_skills\": [\"capital markets\", \"investment banking\", \"leadership\"], \"defining_responsibility_signals\": [\"vice president-director\", \"strong focus on capital markets\"], \"confidence\": \"high\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1266, \\\"dominant_experience_level\\\": \\\"senior\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Oil & Gas Capital Markets\\\", \\\"defining_skills\\\": [\\\"capital markets\\\", \\\"investment banking\\\", \\\"leadership\\\"], \\\"defining_responsibility_signals\\\": [\\\"vice president-director\\\", \\\"strong focus on capital markets\\\"], \\\"confidence\\\": \\\"high\\\"}\"}]",
+    "batch_id": 51
+  },
+  {
+    "community_id": 1267,
+    "community_size": 15,
+    "dominant_experience_level": "junior",
+    "entry_accessibility": "clear_entry_point",
+    "community_label": "Food & Beverage Service",
+    "defining_skills": [
+      "bar supplies management",
+      "liquor recipes",
+      "glassware knowledge"
+    ],
+    "defining_responsibility_signals": [
+      "maintain bar supplies",
+      "serve drinks"
+    ],
+    "confidence": "high",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.333,
+    "overall_agreement": 0.778,
+    "calls_used": 3,
+    "top_title_keywords": "bartender, pool, server, hotel, inn, banquet, barista, outlet, breakfast, attendant, bus, person",
+    "raw_call_outputs": "[{\"community_id\": 1267, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Food & Beverage Service\", \"defining_skills\": [\"bar supplies management\", \"liquor recipes\", \"glassware knowledge\"], \"defining_responsibility_signals\": [\"maintain bar supplies\", \"serve drinks\"], \"confidence\": \"high\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1267, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Food & Beverage Service\\\", \\\"defining_skills\\\": [\\\"bar supplies management\\\", \\\"liquor recipes\\\", \\\"glassware knowledge\\\"], \\\"defining_responsibility_signals\\\": [\\\"maintain bar supplies\\\", \\\"serve drinks\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 1267, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Hospitality Staff\", \"defining_skills\": [\"bar supplies management\", \"liquor recipes\", \"glassware knowledge\"], \"defining_responsibility_signals\": [\"maintain bar supplies\", \"serve drinks\"], \"confidence\": \"high\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1267, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Hospitality Staff\\\", \\\"defining_skills\\\": [\\\"bar supplies management\\\", \\\"liquor recipes\\\", \\\"glassware knowledge\\\"], \\\"defining_responsibility_signals\\\": [\\\"maintain bar supplies\\\", \\\"serve drinks\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 1267, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Hospitality - Food Service\", \"defining_skills\": [\"bartending\", \"customer service\", \"food handling\"], \"defining_responsibility_signals\": [\"deliver service excellence\", \"create welcoming environment\"], \"confidence\": \"high\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1267, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Hospitality - Food Service\\\", \\\"defining_skills\\\": [\\\"bartending\\\", \\\"customer service\\\", \\\"food handling\\\"], \\\"defining_responsibility_signals\\\": [\\\"deliver service excellence\\\", \\\"create welcoming environment\\\"], \\\"confidence\\\": \\\"high\\\"}\"}]",
+    "batch_id": 51
+  },
+  {
+    "community_id": 1268,
+    "community_size": 15,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Construction Project Coordinators",
+    "defining_skills": [
+      "coordination",
+      "construction project management",
+      "implementation"
+    ],
+    "defining_responsibility_signals": [
+      "coordinate projects",
+      "lead teams"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.889,
+    "calls_used": 3,
+    "top_title_keywords": "academy, project, coordinator, engineer, construction, field, federal, manager, plant, lead, network, implementation",
+    "raw_call_outputs": "[{\"community_id\": 1268, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Construction Project Coordinators\", \"defining_skills\": [\"construction project management\", \"coordination\", \"implementation\"], \"defining_responsibility_signals\": [\"coordinate projects\", \"lead teams\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1268, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Construction Project Coordinators\\\", \\\"defining_skills\\\": [\\\"construction project management\\\", \\\"coordination\\\", \\\"implementation\\\"], \\\"defining_responsibility_signals\\\": [\\\"coordinate projects\\\", \\\"lead teams\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1268, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Field Project Coordinators\", \"defining_skills\": [\"project management\", \"coordination\", \"construction\"], \"defining_responsibility_signals\": [\"implement\", \"maintain\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1268, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Field Project Coordinators\\\", \\\"defining_skills\\\": [\\\"project management\\\", \\\"coordination\\\", \\\"construction\\\"], \\\"defining_responsibility_signals\\\": [\\\"implement\\\", \\\"maintain\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1268, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Construction Project Coordinators\", \"defining_skills\": [\"construction project management\", \"coordination\", \"implementation\"], \"defining_responsibility_signals\": [\"coordinate projects\", \"work with teams\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1268, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Construction Project Coordinators\\\", \\\"defining_skills\\\": [\\\"construction project management\\\", \\\"coordination\\\", \\\"implementation\\\"], \\\"defining_responsibility_signals\\\": [\\\"coordinate projects\\\", \\\"work with teams\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 51
+  },
+  {
+    "community_id": 1269,
+    "community_size": 15,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Pharmaceutical Chemist",
+    "defining_skills": [
+      "analytical chemistry",
+      "analytical",
+      "chemistry"
+    ],
+    "defining_responsibility_signals": [
+      "support analytical laboratory operations",
+      "help lead team"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.889,
+    "calls_used": 3,
+    "top_title_keywords": "chemist, analytical, scientist, development, pharmaceutical, team, lead, senior, chemistry, iii, customized, empower",
+    "raw_call_outputs": "[{\"community_id\": 1269, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Pharmaceutical Chemist\", \"defining_skills\": [\"analytical\", \"chemistry\", \"pharmaceutical\"], \"defining_responsibility_signals\": [\"support analytical laboratory operations\", \"help lead team\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1269, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Pharmaceutical Chemist\\\", \\\"defining_skills\\\": [\\\"analytical\\\", \\\"chemistry\\\", \\\"pharmaceutical\\\"], \\\"defining_responsibility_signals\\\": [\\\"support analytical laboratory operations\\\", \\\"help lead team\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1269, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Pharmaceutical Chemist\", \"defining_skills\": [\"analytical chemistry\", \"complex chemical analyses\", \"stability testing\"], \"defining_responsibility_signals\": [\"serve as technical resource\", \"coordinate ich stability testing\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1269, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Pharmaceutical Chemist\\\", \\\"defining_skills\\\": [\\\"analytical chemistry\\\", \\\"complex chemical analyses\\\", \\\"stability testing\\\"], \\\"defining_responsibility_signals\\\": [\\\"serve as technical resource\\\", \\\"coordinate ich stability testing\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1269, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Pharmaceutical Chemists\", \"defining_skills\": [\"analytical chemistry\", \"sample preparation\", \"drug testing\"], \"defining_responsibility_signals\": [\"prepare and analyze samples\", \"detect contaminants\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1269, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Pharmaceutical Chemists\\\", \\\"defining_skills\\\": [\\\"analytical chemistry\\\", \\\"sample preparation\\\", \\\"drug testing\\\"], \\\"defining_responsibility_signals\\\": [\\\"prepare and analyze samples\\\", \\\"detect contaminants\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 51
+  },
+  {
+    "community_id": 1270,
+    "community_size": 15,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Property Accounting",
+    "defining_skills": [
+      "bank transactions",
+      "credit transactions",
+      "vendor billing"
+    ],
+    "defining_responsibility_signals": [
+      "assist with transactions",
+      "grow into senior/management role"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.333,
+    "overall_agreement": 0.778,
+    "calls_used": 3,
+    "top_title_keywords": "specialist, manager, accountant, accounting, accounts, billing, property, senior, staff, entry, junior, non",
+    "raw_call_outputs": "[{\"community_id\": 1270, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Property Accounting\", \"defining_skills\": [\"bank transactions\", \"credit transactions\", \"vendor billing\"], \"defining_responsibility_signals\": [\"assist with transactions\", \"grow into senior/management role\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1270, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Property Accounting\\\", \\\"defining_skills\\\": [\\\"bank transactions\\\", \\\"credit transactions\\\", \\\"vendor billing\\\"], \\\"defining_responsibility_signals\\\": [\\\"assist with transactions\\\", \\\"grow into senior/management role\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1270, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Accounting Specialist\", \"defining_skills\": [\"accounting statements\", \"financial reports\", \"accounts payable transactions\"], \"defining_responsibility_signals\": [\"prepare and process transactions\", \"verify and manage payments\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1270, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Accounting Specialist\\\", \\\"defining_skills\\\": [\\\"accounting statements\\\", \\\"financial reports\\\", \\\"accounts payable transactions\\\"], \\\"defining_responsibility_signals\\\": [\\\"prepare and process transactions\\\", \\\"verify and manage payments\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1270, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Accounts Payable Specialists\", \"defining_skills\": [\"full cycle AP\", \"high volume invoices\", \"excellent communication\"], \"defining_responsibility_signals\": [\"intermediate accounts payable\", \"temporary help\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1270, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Accounts Payable Specialists\\\", \\\"defining_skills\\\": [\\\"full cycle AP\\\", \\\"high volume invoices\\\", \\\"excellent communication\\\"], \\\"defining_responsibility_signals\\\": [\\\"intermediate accounts payable\\\", \\\"temporary help\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 51
+  },
+  {
+    "community_id": 1271,
+    "community_size": 15,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Solar Energy Sales",
+    "defining_skills": [
+      "solar",
+      "sales",
+      "technician"
+    ],
+    "defining_responsibility_signals": [
+      "lead",
+      "direct"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.889,
+    "calls_used": 3,
+    "top_title_keywords": "solar, sales, technician, region, director, lead, pgd, engineer, fpl, east, energy, retail",
+    "raw_call_outputs": "[{\"community_id\": 1271, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Solar Energy Sales\", \"defining_skills\": [\"solar\", \"sales\", \"technician\"], \"defining_responsibility_signals\": [\"lead\", \"direct\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1271, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Solar Energy Sales\\\", \\\"defining_skills\\\": [\\\"solar\\\", \\\"sales\\\", \\\"technician\\\"], \\\"defining_responsibility_signals\\\": [\\\"lead\\\", \\\"direct\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1271, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Solar Energy Technicians\", \"defining_skills\": [\"solar\", \"technician\", \"PGD\"], \"defining_responsibility_signals\": [\"associate\", \"region\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1271, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Solar Energy Technicians\\\", \\\"defining_skills\\\": [\\\"solar\\\", \\\"technician\\\", \\\"PGD\\\"], \\\"defining_responsibility_signals\\\": [\\\"associate\\\", \\\"region\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1271, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Solar Energy Sales\", \"defining_skills\": [\"solar electrician\", \"sales\", \"leadership\"], \"defining_responsibility_signals\": [\"install\", \"brief description\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1271, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Solar Energy Sales\\\", \\\"defining_skills\\\": [\\\"solar electrician\\\", \\\"sales\\\", \\\"leadership\\\"], \\\"defining_responsibility_signals\\\": [\\\"install\\\", \\\"brief description\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 51
+  },
+  {
+    "community_id": 1272,
+    "community_size": 15,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Electrical Foreman",
+    "defining_skills": [
+      "electrical wiring",
+      "conduit installation",
+      "equipment installation"
+    ],
+    "defining_responsibility_signals": [
+      "manage multiple crews",
+      "install, repair, and maintain"
+    ],
+    "confidence": "high",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.333,
+    "overall_agreement": 0.778,
+    "calls_used": 3,
+    "top_title_keywords": "foreman, general, electrical, project, estimator, fabrication, drill, crew, mine, laborer, production, readyframe",
+    "raw_call_outputs": "[{\"community_id\": 1272, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Electrical Foreman\", \"defining_skills\": [\"electrical wiring\", \"conduit installation\", \"equipment installation\"], \"defining_responsibility_signals\": [\"manage multiple crews\", \"install, repair, and maintain\"], \"confidence\": \"high\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1272, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Electrical Foreman\\\", \\\"defining_skills\\\": [\\\"electrical wiring\\\", \\\"conduit installation\\\", \\\"equipment installation\\\"], \\\"defining_responsibility_signals\\\": [\\\"manage multiple crews\\\", \\\"install, repair, and maintain\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 1272, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Construction Project Management\", \"defining_skills\": [\"project management\", \"construction leadership\", \"crew management\"], \"defining_responsibility_signals\": [\"define project direction\", \"oversee crew\"], \"confidence\": \"high\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1272, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Construction Project Management\\\", \\\"defining_skills\\\": [\\\"project management\\\", \\\"construction leadership\\\", \\\"crew management\\\"], \\\"defining_responsibility_signals\\\": [\\\"define project direction\\\", \\\"oversee crew\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 1272, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Construction Management\", \"defining_skills\": [\"scheduling\", \"coordination\", \"supervision\"], \"defining_responsibility_signals\": [\"ensure project delivery\", \"oversee workers\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1272, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Construction Management\\\", \\\"defining_skills\\\": [\\\"scheduling\\\", \\\"coordination\\\", \\\"supervision\\\"], \\\"defining_responsibility_signals\\\": [\\\"ensure project delivery\\\", \\\"oversee workers\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 51
+  },
+  {
+    "community_id": 1273,
+    "community_size": 15,
+    "dominant_experience_level": "junior",
+    "entry_accessibility": "clear_entry_point",
+    "community_label": "Trade Apprenticeships",
+    "defining_skills": [
+      "electrician",
+      "journeyman",
+      "licensed"
+    ],
+    "defining_responsibility_signals": [
+      "execute assigned tasks",
+      "work under supervision"
+    ],
+    "confidence": "high",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.889,
+    "calls_used": 3,
+    "top_title_keywords": "electrician, journeyman, licensed, plumber, equipment, operator, hvac, installer, roofer, commercial, electrical, apprentice",
+    "raw_call_outputs": "[{\"community_id\": 1273, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Trade Apprenticeships\", \"defining_skills\": [\"electrician\", \"journeyman\", \"plumber\"], \"defining_responsibility_signals\": [\"execute assigned tasks\", \"work under supervision\"], \"confidence\": \"high\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1273, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Trade Apprenticeships\\\", \\\"defining_skills\\\": [\\\"electrician\\\", \\\"journeyman\\\", \\\"plumber\\\"], \\\"defining_responsibility_signals\\\": [\\\"execute assigned tasks\\\", \\\"work under supervision\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 1273, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Trade Apprenticeships\", \"defining_skills\": [\"electrician\", \"journeyman\", \"licensed\"], \"defining_responsibility_signals\": [\"execute assigned tasks\", \"work under supervision\"], \"confidence\": \"high\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1273, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Trade Apprenticeships\\\", \\\"defining_skills\\\": [\\\"electrician\\\", \\\"journeyman\\\", \\\"licensed\\\"], \\\"defining_responsibility_signals\\\": [\\\"execute assigned tasks\\\", \\\"work under supervision\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 1273, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Electrician Jobs\", \"defining_skills\": [\"electrician\", \"journeyman\", \"licensed\"], \"defining_responsibility_signals\": [\"experienced\", \"projects\"], \"confidence\": \"high\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1273, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Electrician Jobs\\\", \\\"defining_skills\\\": [\\\"electrician\\\", \\\"journeyman\\\", \\\"licensed\\\"], \\\"defining_responsibility_signals\\\": [\\\"experienced\\\", \\\"projects\\\"], \\\"confidence\\\": \\\"high\\\"}\"}]",
+    "batch_id": 51
+  },
+  {
+    "community_id": 1274,
+    "community_size": 15,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Sales Consultant",
+    "defining_skills": [
+      "sales",
+      "consulting",
+      "design"
+    ],
+    "defining_responsibility_signals": [
+      "retail sales",
+      "customer service"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 0.667,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.778,
+    "calls_used": 3,
+    "top_title_keywords": "sales, consultant, design, area, field, specialist, enterprise, consulting, outside, home, toledo, grand",
+    "raw_call_outputs": "[{\"community_id\": 1274, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"restricted_entry_point\", \"community_label\": \"Sales Consultants\", \"defining_skills\": [\"sales\", \"consulting\", \"design\"], \"defining_responsibility_signals\": [\"deliver in-home sales presentations\", \"independent\"], \"confidence\": \"high\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1274, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"restricted_entry_point\\\", \\\"community_label\\\": \\\"Sales Consultants\\\", \\\"defining_skills\\\": [\\\"sales\\\", \\\"consulting\\\", \\\"design\\\"], \\\"defining_responsibility_signals\\\": [\\\"deliver in-home sales presentations\\\", \\\"independent\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 1274, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Sales Consultant\", \"defining_skills\": [\"sales\", \"design\", \"consulting\"], \"defining_responsibility_signals\": [\"retail sales\", \"customer service\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1274, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Sales Consultant\\\", \\\"defining_skills\\\": [\\\"sales\\\", \\\"design\\\", \\\"consulting\\\"], \\\"defining_responsibility_signals\\\": [\\\"retail sales\\\", \\\"customer service\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1274, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Sales Consultant\", \"defining_skills\": [\"sales\", \"design\", \"consulting\"], \"defining_responsibility_signals\": [\"retail sales\", \"customer service\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1274, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Sales Consultant\\\", \\\"defining_skills\\\": [\\\"sales\\\", \\\"design\\\", \\\"consulting\\\"], \\\"defining_responsibility_signals\\\": [\\\"retail sales\\\", \\\"customer service\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 51
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "community_id": 1300,
+    "community_size": 15,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Social Work Specialists",
+    "defining_skills": [
+      "case management",
+      "family support",
+      "child welfare"
+    ],
+    "defining_responsibility_signals": [
+      "case management",
+      "family support"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.333,
+    "overall_agreement": 0.778,
+    "calls_used": 3,
+    "top_title_keywords": "social, case, worker, manager, foster, care, specialist, fulltime, child, family, support, clinic",
+    "raw_call_outputs": "[{\"community_id\": 1300, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Social Work Specialists\", \"defining_skills\": [\"case management\", \"family support\", \"child welfare\"], \"defining_responsibility_signals\": [\"case management\", \"family support\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1300, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Social Work Specialists\\\", \\\"defining_skills\\\": [\\\"case management\\\", \\\"family support\\\", \\\"child welfare\\\"], \\\"defining_responsibility_signals\\\": [\\\"case management\\\", \\\"family support\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1300, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Social Worker Community\", \"defining_skills\": [\"case management\", \"family support\", \"child welfare\"], \"defining_responsibility_signals\": [\"case coordination\", \"family intervention\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1300, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Social Worker Community\\\", \\\"defining_skills\\\": [\\\"case management\\\", \\\"family support\\\", \\\"child welfare\\\"], \\\"defining_responsibility_signals\\\": [\\\"case coordination\\\", \\\"family intervention\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1300, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Child Protective Services\", \"defining_skills\": [\"social work\", \"case assessment\", \"foster care\"], \"defining_responsibility_signals\": [\"protect children from harm\", \"assess child welfare\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1300, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Child Protective Services\\\", \\\"defining_skills\\\": [\\\"social work\\\", \\\"case assessment\\\", \\\"foster care\\\"], \\\"defining_responsibility_signals\\\": [\\\"protect children from harm\\\", \\\"assess child welfare\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 53
+  },
+  {
+    "community_id": 1301,
+    "community_size": 15,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Private Equity Accounting",
+    "defining_skills": [
+      "accounting",
+      "financial reporting",
+      "hedge fund accounting"
+    ],
+    "defining_responsibility_signals": [
+      "fund operations",
+      "managerial roles"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.889,
+    "calls_used": 3,
+    "top_title_keywords": "manager, fund, accounting, private, equity, financial, reporting, hedge, accountant, director, loan, operations",
+    "raw_call_outputs": "[{\"community_id\": 1301, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Private Equity Accounting\", \"defining_skills\": [\"accounting\", \"financial reporting\", \"hedge fund accounting\"], \"defining_responsibility_signals\": [\"managerial roles\", \"fund operations\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1301, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Private Equity Accounting\\\", \\\"defining_skills\\\": [\\\"accounting\\\", \\\"financial reporting\\\", \\\"hedge fund accounting\\\"], \\\"defining_responsibility_signals\\\": [\\\"managerial roles\\\", \\\"fund operations\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1301, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Private Equity Accounting\", \"defining_skills\": [\"accounting\", \"financial reporting\", \"hedge fund accounting\"], \"defining_responsibility_signals\": [\"define direction\", \"make strategic decisions\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1301, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Private Equity Accounting\\\", \\\"defining_skills\\\": [\\\"accounting\\\", \\\"financial reporting\\\", \\\"hedge fund accounting\\\"], \\\"defining_responsibility_signals\\\": [\\\"define direction\\\", \\\"make strategic decisions\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1301, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Hedge Fund Accounting\", \"defining_skills\": [\"accounting\", \"financial reporting\", \"hedge fund operations\"], \"defining_responsibility_signals\": [\"managerial\", \"fund operations\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1301, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Hedge Fund Accounting\\\", \\\"defining_skills\\\": [\\\"accounting\\\", \\\"financial reporting\\\", \\\"hedge fund operations\\\"], \\\"defining_responsibility_signals\\\": [\\\"managerial\\\", \\\"fund operations\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 53
+  },
+  {
+    "community_id": 1302,
+    "community_size": 15,
+    "dominant_experience_level": "junior",
+    "entry_accessibility": "clear_entry_point",
+    "community_label": "Fleet Service Administrators",
+    "defining_skills": [
+      "billing",
+      "administrative",
+      "fleet management"
+    ],
+    "defining_responsibility_signals": [
+      "deliver the holman experience",
+      "support"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.333,
+    "overall_agreement": 0.778,
+    "calls_used": 3,
+    "top_title_keywords": "administrator, holman, honda, service, billing, specialist, mechanic, installation, centennial, nvd, fleet, solutions",
+    "raw_call_outputs": "[{\"community_id\": 1302, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Fleet Service Administrators\", \"defining_skills\": [\"administrative\", \"billing\", \"fleet management\"], \"defining_responsibility_signals\": [\"support\", \"coordinate\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1302, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Fleet Service Administrators\\\", \\\"defining_skills\\\": [\\\"administrative\\\", \\\"billing\\\", \\\"fleet management\\\"], \\\"defining_responsibility_signals\\\": [\\\"support\\\", \\\"coordinate\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1302, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Automotive Service Admin\", \"defining_skills\": [\"administrator\", \"holman\", \"billing\"], \"defining_responsibility_signals\": [\"deliver the holman experience\", \"treat customers and each other\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1302, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Automotive Service Admin\\\", \\\"defining_skills\\\": [\\\"administrator\\\", \\\"holman\\\", \\\"billing\\\"], \\\"defining_responsibility_signals\\\": [\\\"deliver the holman experience\\\", \\\"treat customers and each other\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1302, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Billing Specialists\", \"defining_skills\": [\"billing\", \"solutions\", \"specialist\"], \"defining_responsibility_signals\": [\"deliver the holman experience\", \"treat customers\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1302, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Billing Specialists\\\", \\\"defining_skills\\\": [\\\"billing\\\", \\\"solutions\\\", \\\"specialist\\\"], \\\"defining_responsibility_signals\\\": [\\\"deliver the holman experience\\\", \\\"treat customers\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 53
+  },
+  {
+    "community_id": 1303,
+    "community_size": 15,
+    "dominant_experience_level": "mid",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Seafood Maintenance",
+    "defining_skills": [
+      "maintenance",
+      "supervision",
+      "facilities management"
+    ],
+    "defining_responsibility_signals": [
+      "supervise",
+      "coordinate"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.889,
+    "calls_used": 3,
+    "top_title_keywords": "shift, plant, manager, motley, maintenance, anacortes, supervisor, operator, naknek, 3rd, boxer, akutan",
+    "raw_call_outputs": "[{\"community_id\": 1303, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Seafood Processing Operations\", \"defining_skills\": [\"facilities management\", \"operator\", \"maintenance\"], \"defining_responsibility_signals\": [\"supervise\", \"coordinate\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1303, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Seafood Processing Operations\\\", \\\"defining_skills\\\": [\\\"facilities management\\\", \\\"operator\\\", \\\"maintenance\\\"], \\\"defining_responsibility_signals\\\": [\\\"supervise\\\", \\\"coordinate\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1303, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Seafood Maintenance\", \"defining_skills\": [\"maintenance\", \"supervision\", \"leadership\"], \"defining_responsibility_signals\": [\"supervise\", \"maintain\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1303, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Seafood Maintenance\\\", \\\"defining_skills\\\": [\\\"maintenance\\\", \\\"supervision\\\", \\\"leadership\\\"], \\\"defining_responsibility_signals\\\": [\\\"supervise\\\", \\\"maintain\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1303, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Seafood Maintenance\", \"defining_skills\": [\"maintenance\", \"supervision\", \"shift management\"], \"defining_responsibility_signals\": [\"supervise\", \"manage shift\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1303, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Seafood Maintenance\\\", \\\"defining_skills\\\": [\\\"maintenance\\\", \\\"supervision\\\", \\\"shift management\\\"], \\\"defining_responsibility_signals\\\": [\\\"supervise\\\", \\\"manage shift\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 53
+  },
+  {
+    "community_id": 1304,
+    "community_size": 15,
+    "dominant_experience_level": "junior",
+    "entry_accessibility": "clear_entry_point",
+    "community_label": "Grocery Store Clerks",
+    "defining_skills": [
+      "customer service",
+      "cash handling",
+      "stocking shelves"
+    ],
+    "defining_responsibility_signals": [
+      "task execution",
+      "following procedures"
+    ],
+    "confidence": "high",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.889,
+    "calls_used": 3,
+    "top_title_keywords": "lucky, clerk, multi, purpose, grocery, specialist, deli, service, bagger, blvd, 247, 18th",
+    "raw_call_outputs": "[{\"community_id\": 1304, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Grocery Store Clerks\", \"defining_skills\": [\"customer service\", \"cash handling\", \"stocking shelves\"], \"defining_responsibility_signals\": [\"task execution\", \"following procedures\"], \"confidence\": \"high\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1304, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Grocery Store Clerks\\\", \\\"defining_skills\\\": [\\\"customer service\\\", \\\"cash handling\\\", \\\"stocking shelves\\\"], \\\"defining_responsibility_signals\\\": [\\\"task execution\\\", \\\"following procedures\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 1304, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Grocery Store Clerks\", \"defining_skills\": [\"customer service\", \"cash handling\", \"stocking shelves\"], \"defining_responsibility_signals\": [\"task execution\", \"following procedures\"], \"confidence\": \"high\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1304, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Grocery Store Clerks\\\", \\\"defining_skills\\\": [\\\"customer service\\\", \\\"cash handling\\\", \\\"stocking shelves\\\"], \\\"defining_responsibility_signals\\\": [\\\"task execution\\\", \\\"following procedures\\\"], \\\"confidence\\\": \\\"high\\\"}\"}, {\"community_id\": 1304, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Grocery Store Specialists\", \"defining_skills\": [\"bagger\", \"customer service\", \"retail\"], \"defining_responsibility_signals\": [\"assist customers\", \"handle groceries\"], \"confidence\": \"high\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1304, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Grocery Store Specialists\\\", \\\"defining_skills\\\": [\\\"bagger\\\", \\\"customer service\\\", \\\"retail\\\"], \\\"defining_responsibility_signals\\\": [\\\"assist customers\\\", \\\"handle groceries\\\"], \\\"confidence\\\": \\\"high\\\"}\"}]",
+    "batch_id": 53
+  },
+  {
+    "community_id": 1305,
+    "community_size": 15,
+    "dominant_experience_level": "junior",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Medical Office Admin",
+    "defining_skills": [
+      "medical office administration",
+      "patient care",
+      "clinical support"
+    ],
+    "defining_responsibility_signals": [
+      "administer patient care",
+      "coordinate office operations"
+    ],
+    "confidence": "medium",
+    "level_agreement": 1.0,
+    "access_agreement": 1.0,
+    "label_agreement": 1.0,
+    "overall_agreement": 1.0,
+    "calls_used": 3,
+    "top_title_keywords": "medical, office, administrator, admin, support, manager, clinical, assistant, clinic, patient, care, coordinator",
+    "raw_call_outputs": "[{\"community_id\": 1305, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Medical Office Admin\", \"defining_skills\": [\"medical office administration\", \"patient care\", \"clinical support\"], \"defining_responsibility_signals\": [\"administer patient care\", \"coordinate office operations\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1305, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Medical Office Admin\\\", \\\"defining_skills\\\": [\\\"medical office administration\\\", \\\"patient care\\\", \\\"clinical support\\\"], \\\"defining_responsibility_signals\\\": [\\\"administer patient care\\\", \\\"coordinate office operations\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1305, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Medical Office Admin\", \"defining_skills\": [\"medical office administration\", \"patient care\", \"clinical support\"], \"defining_responsibility_signals\": [\"administer patient care\", \"coordinate office operations\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1305, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Medical Office Admin\\\", \\\"defining_skills\\\": [\\\"medical office administration\\\", \\\"patient care\\\", \\\"clinical support\\\"], \\\"defining_responsibility_signals\\\": [\\\"administer patient care\\\", \\\"coordinate office operations\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1305, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Medical Office Admin\", \"defining_skills\": [\"medical office administration\", \"patient care\", \"clinical support\"], \"defining_responsibility_signals\": [\"float\", \"patient care\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1305, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Medical Office Admin\\\", \\\"defining_skills\\\": [\\\"medical office administration\\\", \\\"patient care\\\", \\\"clinical support\\\"], \\\"defining_responsibility_signals\\\": [\\\"float\\\", \\\"patient care\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 53
+  },
+  {
+    "community_id": 1306,
+    "community_size": 15,
+    "dominant_experience_level": "junior",
+    "entry_accessibility": "moderate_entry_barrier",
+    "community_label": "Real Estate Interns",
+    "defining_skills": [
+      "property management",
+      "internship",
+      "real estate"
+    ],
+    "defining_responsibility_signals": [
+      "assist",
+      "learn"
+    ],
+    "confidence": "medium",
+    "level_agreement": 0.667,
+    "access_agreement": 0.667,
+    "label_agreement": 0.667,
+    "overall_agreement": 0.667,
+    "calls_used": 3,
+    "top_title_keywords": "manager, intern, senior, property, director, strategy, managing, technician, product, assistant, accountant, workplace",
+    "raw_call_outputs": "[{\"community_id\": 1306, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"clear_entry_point\", \"community_label\": \"Real Estate Interns\", \"defining_skills\": [\"property management\", \"internship\", \"real estate\"], \"defining_responsibility_signals\": [\"assist\", \"learn\"], \"confidence\": \"medium\", \"rep_rank\": 1, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1306, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"clear_entry_point\\\", \\\"community_label\\\": \\\"Real Estate Interns\\\", \\\"defining_skills\\\": [\\\"property management\\\", \\\"internship\\\", \\\"real estate\\\"], \\\"defining_responsibility_signals\\\": [\\\"assist\\\", \\\"learn\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1306, \"dominant_experience_level\": \"mid\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Commercial Real Estate\", \"defining_skills\": [\"property management\", \"strategy\", \"leadership\"], \"defining_responsibility_signals\": [\"manage properties\", \"oversee teams\"], \"confidence\": \"medium\", \"rep_rank\": 2, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1306, \\\"dominant_experience_level\\\": \\\"mid\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Commercial Real Estate\\\", \\\"defining_skills\\\": [\\\"property management\\\", \\\"strategy\\\", \\\"leadership\\\"], \\\"defining_responsibility_signals\\\": [\\\"manage properties\\\", \\\"oversee teams\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}, {\"community_id\": 1306, \"dominant_experience_level\": \"junior\", \"entry_accessibility\": \"moderate_entry_barrier\", \"community_label\": \"Real Estate Interns\", \"defining_skills\": [\"property management\", \"internship\", \"real estate\"], \"defining_responsibility_signals\": [\"assist\", \"learn\"], \"confidence\": \"medium\", \"rep_rank\": 3, \"attempt\": 1, \"raw_output\": \"{\\\"community_id\\\": 1306, \\\"dominant_experience_level\\\": \\\"junior\\\", \\\"entry_accessibility\\\": \\\"moderate_entry_barrier\\\", \\\"community_label\\\": \\\"Real Estate Interns\\\", \\\"defining_skills\\\": [\\\"property management\\\", \\\"internship\\\", \\\"real estate\\\"], \\\"defining_responsibility_signals\\\": [\\\"assist\\\", \\\"learn\\\"], \\\"confidence\\\": \\\"medium\\\"}\"}]",
+    "batch_id": 53
+  }
+]

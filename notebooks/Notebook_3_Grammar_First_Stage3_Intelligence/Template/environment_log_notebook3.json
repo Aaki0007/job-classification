@@ -1,0 +1,27 @@
+{
+  "timestamp_utc": "2026-03-29T21:43:49.120103+00:00",
+  "python_version": "3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]",
+  "platform": "Linux-6.6.113+-x86_64-with-glibc2.35",
+  "working_directory": "/content",
+  "packages": {
+    "pandas": "2.2.2",
+    "numpy": "2.0.2",
+    "tqdm": "4.67.3",
+    "psutil": "5.9.5",
+    "hashlib": "installed",
+    "llama_cpp": "0.3.16",
+    "huggingface_hub": "1.7.1",
+    "hf_transfer": "0.1.9",
+    "collections": "installed",
+    "pathlib": "installed",
+    "warnings": "installed",
+    "datetime": "installed",
+    "platform": "1.0.8",
+    "time": "installed",
+    "math": "installed",
+    "json": "2.0.9",
+    "sys": "installed",
+    "re": "2.2.1",
+    "os": "installed"
+  }
+}
