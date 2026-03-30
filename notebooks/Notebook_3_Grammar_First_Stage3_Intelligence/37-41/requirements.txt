@@ -1,0 +1,7 @@
+pandas==2.2.2
+numpy==2.0.2
+tqdm==4.67.3
+psutil==5.9.5
+llama-cpp-python==0.3.16
+huggingface-hub==1.7.1
+hf-transfer==0.1.9
