@@ -1,10 +1,10 @@
-# Job Experience Level Classification
+# OSINT Labor Market Intelligence — Job Experience Level Classification
 
-Classifying LinkedIn job postings into experience levels (junior, mid, senior) using zero-shot classification with a local LLM. The project uses Mistral Nemo Instruct as the classifier and evaluates its predictions against ground truth labels from the dataset.
+Classifying LinkedIn job postings into experience levels (junior, mid, senior) using semantic community detection and zero-shot LLM classification. The project discovers natural job market clusters via sentence embeddings and Louvain community detection, then uses Mistral Nemo Instruct to classify each community's experience level and entry-point accessibility.
 
 ## Dataset
 
-LinkedIn Job Postings dataset from Kaggle (`arshkon/linkedin-job-postings`), containing ~124k postings. After cleaning and filtering (removing rows missing title/description/experience level, filtering descriptions to 400-700 words), we work with ~36k postings.
+LinkedIn Job Postings dataset from Kaggle (`arshkon/linkedin-job-postings`), containing ~124k postings. After cleaning and filtering (removing rows missing title/description/experience level, filtering descriptions to 400–700 words), we work with ~36k postings.
 
 Columns used:
 - `company_name` — name of the hiring company
@@ -25,59 +25,124 @@ Experience level mapping:
 
 Final distribution: ~19.5k junior, ~15.1k mid, ~1.6k senior.
 
-## Feature Engineering
-
-The following engineered features are extracted and used as supporting signals during classification:
-
-- **Years of experience** — regex-extracted from description text, binned into junior (0-2), mid (3-5), senior (6+)
-- **Title-based seniority** — keyword matching on job title (e.g., "intern", "lead", "director")
-- **Salary signal** — binned salary ranges (<50k junior, 50-100k mid, >100k senior)
-- **Skill complexity** — count and categorization of skills (advanced vs mid-level keywords)
-
 ## Pipeline
 
-1. **Data Cleaning** (`notebooks/Eda_and_feature_enginnering.ipynb`) — Load raw data, remove duplicates, drop rows missing title/description/experience level, filter by description length (400-700 words)
-2. **Feature Engineering** (`notebooks/Eda_and_feature_enginnering.ipynb`) — Extract years of experience, title signals, salary signals, skill complexity indicators
-3. **Label Standardization** — Map LinkedIn's experience levels into three categories: junior, mid, senior
-4. **Data Chunking** — Split the ~36k dataset into 13 stratified chunks for parallel processing across multiple Colab instances
-5. **Model Setup** — Download and load Mistral Nemo Instruct (Q5_K_M quantization, 8.13 GB) via llama.cpp with CUDA support
-6. **Zero-Shot Classification** (`notebooks/chunking-*.ipynb`) — Classify each posting using a structured prompt that includes the job text and engineered feature hints, with JSON output parsing
-7. **Result Combination** (`scripts/combine the chuncks.py`) — Merge all 13 chunk results into a single dataset
-8. **Evaluation** — Compare predictions to ground truth using accuracy, classification report, confusion matrix, and a one-sided z-test (H0: accuracy <= 0.80)
-9. **Semantic Clustering** — Generate embeddings with all-MiniLM-L6-v2, build cosine similarity graph, run Louvain community detection
-10. **Actionable Intelligence** — Identify ambiguous clusters, misclassification patterns, and hidden structure within experience levels
+```
+Raw Data (LinkedIn postings)
+        ↓
+Notebook 1: Clean, engineer features → ~36k cleaned postings
+        ↓
+Notebook 2: Generate embeddings → Louvain community detection → 50 communities
+        ↓
+Notebook 3: Parallel LLM classification (50 communities × 3 attempts)
+        ↓
+Notebook 4: Merge results, aggregate votes, rank by entry accessibility
+        ↓
+Final Intelligence: Labeled dataset with entry barriers, skill requirements,
+                    confidence scores, and actionable market insights
+```
+
+### Stage 1 — EDA & Feature Engineering
+
+**Notebook:** `notebooks/Notebook_1_EDA_Feature_Engineering_v3/Notebook_1_EDA_Feature_Engineering.ipynb`
+
+- Loads raw data, removes duplicates, drops rows missing title/description/experience level
+- Filters by description length (400–700 words)
+- Extracts engineered features:
+  - **Years of experience** — regex-extracted from description text, binned into junior (0–2), mid (3–5), senior (6+)
+  - **Title-based seniority** — keyword matching on job title (e.g., "intern", "lead", "director")
+  - **Salary signal** — binned salary ranges (<50k junior, 50–100k mid, >100k senior)
+  - **Skill complexity** — count and categorization of skills (advanced vs mid-level keywords)
+- Outputs `postings_for_semantic_pipeline.csv` for downstream stages
+
+### Stage 2 — Semantic Community Detection
+
+**Notebook:** `notebooks/Notebook_2_Perfect_OSINT_Community_Detection/Notebook_2_Perfect_OSINT_Community_Detection.ipynb`
+
+- Generates semantic embeddings using **all-MiniLM-L6-v2** sentence transformer
+- Builds cosine similarity graph between job posting embeddings
+- Runs **Louvain community detection** to identify 50 natural semantic clusters
+- Tunes community detection hyperparameters across a resolution grid
+- Outputs community summaries, cards, and tuning results
+
+### Stage 3 — LLM-Based Community Classification
+
+**Notebook:** `notebooks/Notebook_3_Grammar_First_Stage3_Intelligence/` (parallelized across batch subdirectories)
+
+- Uses **Mistral Nemo Instruct** (Q5_K_M quantization, 8.13 GB) via llama.cpp with CUDA
+- Classifies each of 50 communities along two dimensions:
+  1. **Experience level distribution** — dominant level (junior / mid / senior) based on language patterns and experience share
+  2. **Entry-point accessibility**:
+     - *clear_entry_point*: >60% junior roles, no credentials required
+     - *moderate_entry_barrier*: mixed experience or junior with credential preferences
+     - *restricted_entry_point*: senior roles dominate or credentials mandatory
+- Extracts community labels, defining skills, responsibility signals, and confidence levels
+- Runs 3 classification attempts per community for ensemble voting
+- Parallelized across multiple Colab GPU instances (one per batch range)
+
+### Stage 4 — Merging & Actionable Intelligence
+
+**Notebook:** `notebooks/Notebook_4_merging/Merging_and_stage_3_intelligence.ipynb`
+
+- Merges all 50 batch results into a unified dataset
+- Aggregates multiple LLM classification attempts via voting
+- Computes agreement metrics: `level_agreement`, `access_agreement`, `label_agreement`, `overall_agreement`
+- Produces ranked/filtered datasets:
+  - `entry_point_communities_ranked.csv` — communities ranked by entry accessibility
+  - `restricted_entry_communities_ranked.csv` — high-barrier entry communities
+  - `ambiguous_communities_for_review.csv` — communities with conflicting signals needing human review
 
 ## Project Structure
 
 ```
 notebooks/
-  Job_Experience.ipynb              # Initial prototyping (sample of 100 jobs)
-  Eda_and_feature_enginnering.ipynb # EDA, cleaning, and feature engineering
-  chunking-{2,3,5,6,7,9,12,13}.ipynb # Parallel inference workers (one per Colab instance)
-scripts/
-  combine the chuncks.py            # Merge chunk results and run evaluation + z-test
-data/                                # Result CSVs (gitignored)
+  Notebook_1_EDA_Feature_Engineering_v3/
+    Notebook_1_EDA_Feature_Engineering.ipynb   # Stage 1: EDA, cleaning, feature engineering
+    input data/postings.csv                    # Raw LinkedIn data
+    results/                                   # Cleaned output CSVs
+    requirements.txt                           # Stage 1 dependencies
+  Notebook_2_Perfect_OSINT_Community_Detection/
+    Notebook_2_Perfect_OSINT_Community_Detection.ipynb  # Stage 2: Embeddings & community detection
+    community_summary.csv                      # Community-level statistics
+    community_cards.json                       # Community metadata
+    requirements.txt                           # Stage 2 dependencies
+  Notebook_3_Grammar_First_Stage3_Intelligence/
+    {1,2-6,7-11,...,51-53}/                    # Batch subdirectories for parallel LLM inference
+      prompt_python.py                         # LLM prompt template
+      results-*/                               # Per-batch classification results
+  Notebook_4_merging/
+    Merging_and_stage_3_intelligence.ipynb      # Stage 4: Merge, aggregate, rank
+    results/                                   # Final intelligence outputs
+    requirements.txt                           # Stage 4 dependencies
 ```
+
+## Reproducibility
+
+Each notebook directory includes reproducibility metadata:
+- `requirements.txt` — pinned Python package versions
+- `environment_log*.json` — full environment specifications
+- `reproducibility_manifest.json` — checksums and pipeline metadata
+- `seed_log*.json` — random seed values used
+- `dataset_hash.json` / `input_hashes*.json` — data integrity hashes
 
 ## Requirements
 
 - Python 3.10+
 - NVIDIA GPU with CUDA support (designed for Google Colab GPU runtime)
 - llama-cpp-python (built with CUDA)
-- pandas, numpy, scikit-learn, statsmodels
+- pandas, numpy, scikit-learn, scipy
+- torch, sentence-transformers (all-MiniLM-L6-v2)
+- tqdm, matplotlib, psutil
 - kagglehub, huggingface_hub
 
-Install Python dependencies:
-```bash
-pip install -r requirements.txt
-```
+Each notebook directory contains its own `requirements.txt` with pinned versions for that stage.
 
 ## Usage
 
-1. Run `notebooks/Eda_and_feature_enginnering.ipynb` to clean the data and generate engineered features
-2. Run each `notebooks/chunking-*.ipynb` notebook on a separate Colab GPU instance (change `CHUNK_ID` per notebook)
-3. Collect all `results_chunk_*.csv` files into `data/`
-4. Run `scripts/combine the chuncks.py` to merge results and evaluate
+1. Run **Notebook 1** to clean the raw data and generate engineered features
+2. Run **Notebook 2** to generate semantic embeddings and detect communities
+3. Run **Notebook 3** batch notebooks on separate Colab GPU instances (one per batch range) to classify communities
+4. Run **Notebook 4** to merge all results, compute agreement scores, and produce ranked intelligence outputs
 
 ## License
 
